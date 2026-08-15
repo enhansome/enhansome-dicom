@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T00:00:49Z",
+            "last_commit": "2026-08-14T16:14:35Z",
             "owner": "microsoft",
             "repo": "dicom-server",
             "stars": 512
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T07:50:39Z",
+            "last_commit": "2026-08-14T16:58:49Z",
             "owner": "SimpleITK",
             "repo": "SimpleITK",
-            "stars": 1083
+            "stars": 1082
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T05:29:46Z",
             "owner": "commontk",
             "repo": "CTK",
-            "stars": 963
+            "stars": 964
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2026-08-11T17:44:03Z",
             "owner": "QIICR",
             "repo": "dcmqi",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -186,7 +186,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T04:05:10Z",
+            "last_commit": "2026-08-15T02:47:51Z",
             "owner": "jodogne",
             "repo": "OrthancMirror",
             "stars": 41
@@ -254,7 +254,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-08T22:47:32Z",
+            "last_commit": "2026-08-14T23:14:16Z",
             "owner": "hdclark",
             "repo": "DICOMautomaton",
             "stars": 90
@@ -296,7 +296,7 @@
             "last_commit": "2026-08-07T14:14:01Z",
             "owner": "dcm4che",
             "repo": "dcm4che",
-            "stars": 1448
+            "stars": 1447
           }
         },
         {
@@ -464,10 +464,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T18:26:33Z",
+            "last_commit": "2026-08-14T12:42:29Z",
             "owner": "OHIF",
             "repo": "Viewers",
-            "stars": 4291
+            "stars": 4293
           }
         },
         {
@@ -576,7 +576,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T11:39:49Z",
+            "last_commit": "2026-08-14T21:17:51Z",
             "owner": "ImagingDataCommons",
             "repo": "dicom-microscopy-viewer",
             "stars": 128
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:20:58.245Z",
+    "last_updated": "2026-08-15T04:15:28.115Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
     "enhanced_repository": "enhansome/enhansome-dicom",
