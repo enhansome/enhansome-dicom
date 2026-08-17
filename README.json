@@ -119,7 +119,7 @@
             "last_commit": "2026-08-12T12:51:46Z",
             "owner": "DCMTK",
             "repo": "dcmtk",
-            "stars": 899
+            "stars": 900
           }
         },
         {
@@ -506,7 +506,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T20:17:56Z",
+            "last_commit": "2026-08-16T17:22:59Z",
             "owner": "Kitware",
             "repo": "VolView",
             "stars": 292
@@ -707,7 +707,7 @@
             "last_commit": "2026-08-07T20:06:45Z",
             "owner": "ImagingDataCommons",
             "repo": "highdicom",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:22:06.696Z",
+    "last_updated": "2026-08-17T04:27:25.004Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
     "enhanced_repository": "enhansome/enhansome-dicom",
