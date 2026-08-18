@@ -24,7 +24,7 @@
             "last_commit": "2026-08-15T16:35:01Z",
             "owner": "fo-dicom",
             "repo": "fo-dicom",
-            "stars": 1207
+            "stars": 1208
           }
         },
         {
@@ -88,7 +88,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T06:55:58Z",
+            "last_commit": "2026-08-17T13:01:05Z",
             "owner": "SimpleITK",
             "repo": "SimpleITK",
             "stars": 1082
@@ -296,7 +296,7 @@
             "last_commit": "2026-08-07T14:14:01Z",
             "owner": "dcm4che",
             "repo": "dcm4che",
-            "stars": 1447
+            "stars": 1448
           }
         },
         {
@@ -464,10 +464,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:42:29Z",
+            "last_commit": "2026-08-18T00:11:16Z",
             "owner": "OHIF",
             "repo": "Viewers",
-            "stars": 4294
+            "stars": 4297
           }
         },
         {
@@ -506,7 +506,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T17:22:59Z",
+            "last_commit": "2026-08-17T21:25:17Z",
             "owner": "Kitware",
             "repo": "VolView",
             "stars": 292
@@ -576,7 +576,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T21:17:51Z",
+            "last_commit": "2026-08-17T12:00:11Z",
             "owner": "ImagingDataCommons",
             "repo": "dicom-microscopy-viewer",
             "stars": 128
@@ -665,7 +665,7 @@
             "last_commit": "2026-08-03T17:17:51Z",
             "owner": "pydicom",
             "repo": "pydicom",
-            "stars": 2193
+            "stars": 2194
           }
         },
         {
@@ -718,7 +718,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-28T14:15:36Z",
+            "last_commit": "2026-08-17T21:05:10Z",
             "owner": "ImagingDataCommons",
             "repo": "dicomweb-client",
             "stars": 128
@@ -955,7 +955,7 @@
             "last_commit": "2024-02-28T18:12:45Z",
             "owner": "Sikerdebaard",
             "repo": "dcmrtstruct2nii",
-            "stars": 104
+            "stars": 103
           }
         },
         {
@@ -969,7 +969,7 @@
             "last_commit": "2023-05-10T19:52:24Z",
             "owner": "innolitics",
             "repo": "dicom-numpy",
-            "stars": 96
+            "stars": 95
           }
         }
       ],
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:27:25.004Z",
+    "last_updated": "2026-08-18T04:20:53.502Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
     "enhanced_repository": "enhansome/enhansome-dicom",
