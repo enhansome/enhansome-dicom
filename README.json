@@ -24,7 +24,7 @@
             "last_commit": "2026-08-15T16:35:01Z",
             "owner": "fo-dicom",
             "repo": "fo-dicom",
-            "stars": 1208
+            "stars": 1209
           }
         },
         {
@@ -88,7 +88,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T13:01:05Z",
+            "last_commit": "2026-08-18T07:02:12Z",
             "owner": "SimpleITK",
             "repo": "SimpleITK",
             "stars": 1082
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T05:29:46Z",
             "owner": "commontk",
             "repo": "CTK",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -186,7 +186,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T02:56:01Z",
+            "last_commit": "2026-08-19T02:58:31Z",
             "owner": "jodogne",
             "repo": "OrthancMirror",
             "stars": 41
@@ -254,7 +254,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T23:14:16Z",
+            "last_commit": "2026-08-18T22:58:38Z",
             "owner": "hdclark",
             "repo": "DICOMautomaton",
             "stars": 90
@@ -464,10 +464,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:11:16Z",
+            "last_commit": "2026-08-18T19:19:04Z",
             "owner": "OHIF",
             "repo": "Viewers",
-            "stars": 4297
+            "stars": 4298
           }
         },
         {
@@ -492,7 +492,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T16:23:41Z",
+            "last_commit": "2026-08-18T15:49:28Z",
             "owner": "niivue",
             "repo": "niivue",
             "stars": 479
@@ -506,7 +506,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:25:17Z",
+            "last_commit": "2026-08-18T15:41:13Z",
             "owner": "Kitware",
             "repo": "VolView",
             "stars": 292
@@ -576,7 +576,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T12:00:11Z",
+            "last_commit": "2026-08-18T15:19:37Z",
             "owner": "ImagingDataCommons",
             "repo": "dicom-microscopy-viewer",
             "stars": 128
@@ -941,7 +941,7 @@
             "last_commit": "2026-04-17T13:04:17Z",
             "owner": "innolitics",
             "repo": "dicom-standard",
-            "stars": 131
+            "stars": 132
           }
         },
         {
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:20:53.502Z",
+    "last_updated": "2026-08-19T04:22:51.928Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
     "enhanced_repository": "enhansome/enhansome-dicom",
