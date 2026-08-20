@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 187111872,
                     "language": "C#",
-                    "last_commit": "2026-08-16T00:37:41Z",
+                    "last_commit": "2026-08-19T16:48:50Z",
                     "owner": "microsoft",
                     "repo": "dicom-server",
                     "stars": 512
@@ -90,7 +90,7 @@
                     "archived": false,
                     "id": 1069177,
                     "language": "C++",
-                    "last_commit": "2026-08-18T07:02:12Z",
+                    "last_commit": "2026-08-19T16:59:40Z",
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
                     "stars": 1082
@@ -123,7 +123,7 @@
                     "last_commit": "2026-08-12T12:51:46Z",
                     "owner": "DCMTK",
                     "repo": "dcmtk",
-                    "stars": 900
+                    "stars": 901
                   }
                 },
                 {
@@ -135,10 +135,10 @@
                     "archived": false,
                     "id": 1760792,
                     "language": "C++",
-                    "last_commit": "2026-08-19T11:06:31Z",
+                    "last_commit": "2026-08-19T23:10:14Z",
                     "owner": "MITK",
                     "repo": "MITK",
-                    "stars": 832
+                    "stars": 833
                   }
                 },
                 {
@@ -195,7 +195,7 @@
                     "archived": false,
                     "id": 89207688,
                     "language": "C++",
-                    "last_commit": "2026-08-19T02:58:31Z",
+                    "last_commit": "2026-08-20T02:54:11Z",
                     "owner": "jodogne",
                     "repo": "OrthancMirror",
                     "stars": 41
@@ -217,10 +217,10 @@
                     "archived": false,
                     "id": 25434012,
                     "language": "C++",
-                    "last_commit": "2026-08-13T15:43:45Z",
+                    "last_commit": "2026-08-19T14:13:35Z",
                     "owner": "rordenlab",
                     "repo": "dcm2niix",
-                    "stars": 1181
+                    "stars": 1182
                   }
                 },
                 {
@@ -313,7 +313,7 @@
                     "archived": false,
                     "id": 912291,
                     "language": "Java",
-                    "last_commit": "2026-08-07T14:14:01Z",
+                    "last_commit": "2026-08-19T12:36:26Z",
                     "owner": "dcm4che",
                     "repo": "dcm4che",
                     "stars": 1449
@@ -420,7 +420,7 @@
                     "last_commit": "2026-03-22T21:27:37Z",
                     "owner": "knopkem",
                     "repo": "dicomweb-pacs",
-                    "stars": 124
+                    "stars": 125
                   }
                 },
                 {
@@ -499,10 +499,10 @@
                     "archived": false,
                     "id": 44164233,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T19:19:04Z",
+                    "last_commit": "2026-08-19T15:53:20Z",
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4300
+                    "stars": 4301
                   }
                 },
                 {
@@ -547,7 +547,7 @@
                     "last_commit": "2026-08-18T15:41:13Z",
                     "owner": "Kitware",
                     "repo": "VolView",
-                    "stars": 292
+                    "stars": 293
                   }
                 },
                 {
@@ -589,7 +589,7 @@
                     "archived": false,
                     "id": 252211443,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-11T16:07:15Z",
+                    "last_commit": "2026-08-19T17:26:16Z",
                     "owner": "cylab-tw",
                     "repo": "bluelight",
                     "stars": 155
@@ -1083,7 +1083,7 @@
                     "last_commit": "2026-07-09T20:18:36Z",
                     "owner": "mercure-imaging",
                     "repo": "mercure",
-                    "stars": 100
+                    "stars": 101
                   }
                 }
               ],
@@ -1101,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:24.673Z",
+    "last_updated": "2026-08-20T04:22:21.841Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_id": 615461157,
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
