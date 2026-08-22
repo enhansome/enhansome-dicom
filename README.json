@@ -120,10 +120,10 @@
                     "archived": false,
                     "id": 102939816,
                     "language": "C++",
-                    "last_commit": "2026-08-12T12:51:46Z",
+                    "last_commit": "2026-08-21T13:52:41Z",
                     "owner": "DCMTK",
                     "repo": "dcmtk",
-                    "stars": 900
+                    "stars": 901
                   }
                 },
                 {
@@ -135,10 +135,10 @@
                     "archived": false,
                     "id": 1760792,
                     "language": "C++",
-                    "last_commit": "2026-08-19T23:10:14Z",
+                    "last_commit": "2026-08-21T21:58:52Z",
                     "owner": "MITK",
                     "repo": "MITK",
-                    "stars": 833
+                    "stars": 834
                   }
                 },
                 {
@@ -150,7 +150,7 @@
                     "archived": false,
                     "id": 1081667,
                     "language": "C++",
-                    "last_commit": "2026-08-20T17:26:39Z",
+                    "last_commit": "2026-08-21T07:55:49Z",
                     "owner": "malaterre",
                     "repo": "GDCM",
                     "stars": 398
@@ -180,7 +180,7 @@
                     "archived": false,
                     "id": 50675718,
                     "language": "C++",
-                    "last_commit": "2026-08-11T17:44:03Z",
+                    "last_commit": "2026-08-21T12:03:44Z",
                     "owner": "QIICR",
                     "repo": "dcmqi",
                     "stars": 284
@@ -269,7 +269,7 @@
                     "archived": false,
                     "id": 89630691,
                     "language": "C++",
-                    "last_commit": "2026-08-18T22:58:38Z",
+                    "last_commit": "2026-08-22T01:30:30Z",
                     "owner": "hdclark",
                     "repo": "DICOMautomaton",
                     "stars": 90
@@ -499,10 +499,10 @@
                     "archived": false,
                     "id": 44164233,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T21:35:52Z",
+                    "last_commit": "2026-08-21T16:52:04Z",
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4304
+                    "stars": 4305
                   }
                 },
                 {
@@ -532,7 +532,7 @@
                     "last_commit": "2026-08-18T15:49:28Z",
                     "owner": "niivue",
                     "repo": "niivue",
-                    "stars": 479
+                    "stars": 480
                   }
                 },
                 {
@@ -619,7 +619,7 @@
                     "archived": false,
                     "id": 142499554,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-20T20:55:18Z",
+                    "last_commit": "2026-08-21T17:58:58Z",
                     "owner": "ImagingDataCommons",
                     "repo": "dicom-microscopy-viewer",
                     "stars": 128
@@ -753,7 +753,7 @@
                     "archived": false,
                     "id": 200103563,
                     "language": "Python",
-                    "last_commit": "2026-08-07T20:06:45Z",
+                    "last_commit": "2026-08-22T02:00:49Z",
                     "owner": "ImagingDataCommons",
                     "repo": "highdicom",
                     "stars": 239
@@ -1101,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:24:35.500Z",
+    "last_updated": "2026-08-22T04:17:44.309Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_id": 615461157,
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
