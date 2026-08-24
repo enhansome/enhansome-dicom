@@ -46,7 +46,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 #### General
 
 * [fo-dicom](https://github.com/fo-dicom/fo-dicom) ⭐ 1,209 | 🐛 68 | 🌐 C# | 📅 2026-08-15 - Fellow Oak DICOM, a DICOM toolkit in C# for all .NET Standard 2.0 compatible frameworks.
-* [dicom-server](https://github.com/microsoft/dicom-server) ⭐ 512 | 🐛 18 | 🌐 C# | 📅 2026-08-23 - The Medical Imaging Server for DICOM is an open source DICOM server that is easily deployed on Azure.
+* [dicom-server](https://github.com/microsoft/dicom-server) ⭐ 512 | 🐛 18 | 🌐 C# | 📅 2026-08-24 - The Medical Imaging Server for DICOM is an open source DICOM server that is easily deployed on Azure.
 * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) ⭐ 235 | 🐛 30 | 🌐 C# | 📅 2023-12-15 - A standalone DICOMWeb server with RESTful implementation of the DICOMWeb/WADO services. The DICOMcloud server can interface with any DICOMWeb client over the current implemented features (qido-rs, wado-uri, wado-rs and stow-rs).
 * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) ⭐ 190 | 🐛 26 | 🌐 C# | 📅 2024-08-20 - A simple to use library for reading and manipulating DICOM files.
 
@@ -58,7 +58,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### General
 
-* [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,081 | 🐛 98 | 🌐 C++ | 📅 2026-08-23 - A simplified interface for the Insight Toolkit [ITK](https://itk.org/) with several components supporting general filtering operations, image segmentation, and registration.
+* [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,082 | 🐛 100 | 🌐 C++ | 📅 2026-08-23 - A simplified interface for the Insight Toolkit [ITK](https://itk.org/) with several components supporting general filtering operations, image segmentation, and registration.
 * [CTK](https://github.com/commontk/CTK) ⭐ 965 | 🐛 230 | 🌐 C++ | 📅 2026-08-12 - The Common Toolkit is a community effort to provide support code for medical image analysis, surgical navigation, and related projects.
 * [DCMTK](https://github.com/DCMTK/dcmtk) ⭐ 901 | 🐛 14 | 🌐 C++ | 📅 2026-08-21 - The DICOM ToolKit (DCMTK) package consists of source code, documentation and installation instructions for a set of software libraries and applications implementing part of the DICOM/MEDICOM Standard.
 * [MITK](https://github.com/MITK/MITK) ⭐ 835 | 🐛 0 | 🌐 C++ | 📅 2026-08-22 - The Medical Imaging Interaction Toolkit (MITK) is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.
@@ -69,13 +69,13 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Conversion
 
-* [dcm2niix](https://github.com/rordenlab/dcm2niix) ⭐ 1,181 | 🐛 4 | 🌐 C++ | 📅 2026-08-19 - Convert neuroimaging data from the DICOM format to the [NIfTI](https://nifti.nimh.nih.gov/) format.
+* [dcm2niix](https://github.com/rordenlab/dcm2niix) ⭐ 1,181 | 🐛 2 | 🌐 C++ | 📅 2026-08-19 - Convert neuroimaging data from the DICOM format to the [NIfTI](https://nifti.nimh.nih.gov/) format.
 * [DicomToMesh](https://github.com/AOT-AG/DicomToMesh) ⭐ 527 | 🐛 6 | 🌐 C++ | 📅 2026-03-28 - A command line tool to transform a DICOM volume into a 3d surface mesh (*obj*, *stl* or *ply*). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning.
 * [wsi-to-dicom-converter](https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter) ⚠️ Archived - Convert whole slide images (WSIs) to DICOM.
 
 #### Other
 
-* [DICOMautomaton](https://github.com/hdclark/DICOMautomaton) ⭐ 90 | 🐛 34 | 🌐 C++ | 📅 2026-08-22 - A multipurpose tool for analyzing medical physics data with a focus on automation.
+* [DICOMautomaton](https://github.com/hdclark/DICOMautomaton) ⭐ 90 | 🐛 34 | 🌐 C++ | 📅 2026-08-24 - A multipurpose tool for analyzing medical physics data with a focus on automation.
 * [dovo](https://github.com/DraconPern/dovo) ⭐ 41 | 🐛 2 | 🌐 C++ | 📅 2026-03-30 - Cross-platform software for importing DICOM CD/files and sending to PACS.
 
 ### Go
@@ -92,7 +92,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Visualization
 
-* [Weasis](https://github.com/nroduit/Weasis) ⭐ 1,315 | 🐛 47 | 🌐 Java | 📅 2026-08-23 - A multipurpose standalone and web-based DICOM viewer with a highly modular architecture.
+* [Weasis](https://github.com/nroduit/Weasis) ⭐ 1,315 | 🐛 47 | 🌐 Java | 📅 2026-08-24 - A multipurpose standalone and web-based DICOM viewer with a highly modular architecture.
 
 ### JavaScript
 
@@ -111,7 +111,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Visualization
 
-* [Viewers](https://github.com/OHIF/Viewers) ⭐ 4,307 | 🐛 542 | 🌐 TypeScript | 📅 2026-08-21 - A zero-footprint medical image viewer provided by the [Open Health Imaging Foundation (OHIF)](https://ohif.org/). It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support DICOMWeb.
+* [Viewers](https://github.com/OHIF/Viewers) ⭐ 4,307 | 🐛 541 | 🌐 TypeScript | 📅 2026-08-24 - A zero-footprint medical image viewer provided by the [Open Health Imaging Foundation (OHIF)](https://ohif.org/). It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support DICOMWeb.
 * [DWV](https://github.com/ivmartel/dwv) ⭐ 1,842 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-22 - DICOM Web Viewer (DWV) is an open source zero footprint medical image viewer library. It uses only JavaScript and HTML5 technologies, meaning that it can be run on any platform that provides a modern browser (laptop, tablet, phone and even modern TVs).
 * [NiiVue](https://github.com/niivue/niivue) ⭐ 481 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-18 - A WebGL module that can be embedded into HTML, Vue.js, Angular, React, Electron and Capacitor frameworks. It provides scripting and drag and drop abilities to visualize and render voxel-based images (e.g., DICOM and NIfTI), meshes, and tractography streamlines and connectomes, as well as drawing functions ([demos](https://niivue.github.io/niivue/)).
 * [VolView](https://github.com/Kitware/VolView) ⭐ 294 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-18 - Web based radiological viewer for clinical professionals. Built with [Vue.js](https://vuejs.org/) and [VTK.js](https://github.com/Kitware/vtk-js) ⭐ 1,519 | 🐛 294 | 🌐 JavaScript | 📅 2026-08-21.
@@ -140,7 +140,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### General
 
-* [pydicom](https://github.com/pydicom/pydicom) ⭐ 2,197 | 🐛 38 | 🌐 Python | 📅 2026-08-03 - A pure Python package for working with DICOM files. It lets you read, modify and write DICOM data in an easy "pythonic" way.
+* [pydicom](https://github.com/pydicom/pydicom) ⭐ 2,197 | 🐛 39 | 🌐 Python | 📅 2026-08-03 - A pure Python package for working with DICOM files. It lets you read, modify and write DICOM data in an easy "pythonic" way.
 * [MedPy](https://github.com/loli/medpy) ⭐ 620 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-09-03 - An image processing library and collection of scripts targeted towards medical (i.e. high dimensional) image processing.
 * [pynetdicom](https://github.com/pydicom/pynetdicom) ⭐ 570 | 🐛 21 | 🌐 Python | 📅 2026-08-03 - A pure Python 3.7+ package that implements the DICOM networking protocol. Working with *pydicom*, it allows the easy creation of DICOM Service Class Users (SCUs) and Service Class Providers (SCPs).
 * [highdicom](https://github.com/ImagingDataCommons/highdicom) ⭐ 239 | 🐛 34 | 🌐 Python | 📅 2026-08-23 - Provides high-level DICOM abstractions for the Python programming language to facilitate the creation and handling of DICOM objects for image-derived information, including image annotations, and image analysis results.
@@ -182,7 +182,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 ### Rust
 
-* [DICOM-rs](https://github.com/Enet4/dicom-rs) ⭐ 557 | 🐛 75 | 🌐 Rust | 📅 2026-08-19 - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
+* [DICOM-rs](https://github.com/Enet4/dicom-rs) ⭐ 557 | 🐛 75 | 🌐 Rust | 📅 2026-08-24 - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
 
 ### Other/Combination
 
@@ -197,7 +197,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Visualization
 
-* [AlizaMS](https://github.com/AlizaMedicalImaging/AlizaMS) ⭐ 309 | 🐛 3 | 🌐 C++ | 📅 2026-08-19 - DICOM viewer.
+* [AlizaMS](https://github.com/AlizaMedicalImaging/AlizaMS) ⭐ 310 | 🐛 3 | 🌐 C++ | 📅 2026-08-19 - DICOM viewer.
 
 #### Image Computing Platforms
 

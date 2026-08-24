@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 187111872,
                     "language": "C#",
-                    "last_commit": "2026-08-23T05:08:48Z",
+                    "last_commit": "2026-08-24T09:14:12Z",
                     "owner": "microsoft",
                     "repo": "dicom-server",
                     "stars": 512
@@ -71,6 +71,28 @@
               "description": null,
               "node_type": "group",
               "title": "General"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UnityVolumeRendering",
+                  "description": "A volume renderer, made with Unity3D.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 170160188,
+                    "language": "C#",
+                    "last_commit": "2026-03-12T19:33:30Z",
+                    "owner": "mlavik1",
+                    "repo": "UnityVolumeRendering",
+                    "stars": 561
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visualization"
             }
           ],
           "description": null,
@@ -93,7 +115,7 @@
                     "last_commit": "2026-08-23T06:59:30Z",
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
-                    "stars": 1081
+                    "stars": 1082
                   }
                 },
                 {
@@ -269,7 +291,7 @@
                     "archived": false,
                     "id": 89630691,
                     "language": "C++",
-                    "last_commit": "2026-08-22T20:31:56Z",
+                    "last_commit": "2026-08-24T06:27:42Z",
                     "owner": "hdclark",
                     "repo": "DICOMautomaton",
                     "stars": 90
@@ -299,6 +321,28 @@
           "description": null,
           "node_type": "group",
           "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dicom",
+              "description": "High performance Golang DICOM parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153484854,
+                "language": "Go",
+                "last_commit": "2026-06-21T03:39:58Z",
+                "owner": "suyashkumar",
+                "repo": "dicom",
+                "stars": 1080
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
         },
         {
           "children": [
@@ -353,6 +397,28 @@
               "description": null,
               "node_type": "group",
               "title": "General"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Weasis",
+                  "description": "A multipurpose standalone and web-based DICOM viewer with a highly modular architecture.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3484241,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T05:58:35Z",
+                    "owner": "nroduit",
+                    "repo": "Weasis",
+                    "stars": 1315
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visualization"
             }
           ],
           "description": null,
@@ -499,7 +565,7 @@
                     "archived": false,
                     "id": 44164233,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T16:52:04Z",
+                    "last_commit": "2026-08-24T13:20:30Z",
                     "owner": "OHIF",
                     "repo": "Viewers",
                     "stars": 4307
@@ -689,11 +755,62 @@
               "description": null,
               "node_type": "group",
               "title": "Visualization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dicomweb-proxy",
+                  "description": "Translates between DICOMWeb and traditional DICOM DIMSE services.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 234349735,
+                    "language": "TypeScript",
+                    "last_commit": "2026-03-22T21:14:08Z",
+                    "owner": "knopkem",
+                    "repo": "dicomweb-proxy",
+                    "stars": 82
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dicm2nii",
+                  "description": "Convert DICOM into NIfTI. It can also convert PAR/XML/REC, HEAD/BRIK, MGZ and BrainVoyager files into NIfTI.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60989643,
+                    "language": "MATLAB",
+                    "last_commit": "2026-04-01T01:20:08Z",
+                    "owner": "xiangruili",
+                    "repo": "dicm2nii",
+                    "stars": 102
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Conversion"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MATLAB"
         },
         {
           "children": [
@@ -947,6 +1064,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "dicomsort",
+                  "description": "Given DICOM files in a random folder structure, this program copies all into a user-defined folder hierarchy, creating folders as necessary and changing DICOM file names to be more meaningful.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9375389,
+                    "language": "Python",
+                    "last_commit": "2025-05-06T03:11:53Z",
+                    "owner": "pieper",
+                    "repo": "dicomsort",
+                    "stars": 86
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Sorting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "MRIcroGL",
                   "description": "A cross-platform tool that supports many voxel-based image formats including DICOM. This natively compiled application provides a drag and drop user interface as well as Python scripting integration.",
                   "children": [],
@@ -1055,6 +1194,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "DICOM-rs",
+              "description": "A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71735225,
+                "language": "Rust",
+                "last_commit": "2026-08-24T10:20:20Z",
+                "owner": "Enet4",
+                "repo": "dicom-rs",
+                "stars": 557
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1090,6 +1251,50 @@
               "description": null,
               "node_type": "group",
               "title": "Machine Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DVTk",
+                  "description": "Testing, validating and diagnosing DICOM communication in medical environments.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 195784570,
+                    "language": "C#",
+                    "last_commit": "2026-08-06T09:58:16Z",
+                    "owner": "dvtk-org",
+                    "repo": "DVTk",
+                    "stars": 192
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Validation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AlizaMS",
+                  "description": "DICOM viewer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 244179792,
+                    "language": "C++",
+                    "last_commit": "2026-08-19T15:01:55Z",
+                    "owner": "AlizaMedicalImaging",
+                    "repo": "AlizaMS",
+                    "stars": 310
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visualization"
             }
           ],
           "description": null,
@@ -1101,7 +1306,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:31:14.659Z",
+    "last_updated": "2026-08-24T14:28:12.671Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_id": 615461157,
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
