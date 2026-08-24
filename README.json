@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 187111872,
                     "language": "C#",
-                    "last_commit": "2026-08-19T16:48:50Z",
+                    "last_commit": "2026-08-23T05:08:48Z",
                     "owner": "microsoft",
                     "repo": "dicom-server",
                     "stars": 512
@@ -90,7 +90,7 @@
                     "archived": false,
                     "id": 1069177,
                     "language": "C++",
-                    "last_commit": "2026-08-22T14:27:25Z",
+                    "last_commit": "2026-08-23T06:59:30Z",
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
                     "stars": 1081
@@ -165,7 +165,7 @@
                     "archived": false,
                     "id": 10230441,
                     "language": "C++",
-                    "last_commit": "2026-02-08T20:44:36Z",
+                    "last_commit": "2026-08-24T03:27:21Z",
                     "owner": "dgobbi",
                     "repo": "vtk-dicom",
                     "stars": 286
@@ -532,7 +532,7 @@
                     "last_commit": "2026-08-18T15:49:28Z",
                     "owner": "niivue",
                     "repo": "niivue",
-                    "stars": 480
+                    "stars": 481
                   }
                 },
                 {
@@ -589,7 +589,7 @@
                     "archived": false,
                     "id": 252211443,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T17:26:16Z",
+                    "last_commit": "2026-08-23T16:02:00Z",
                     "owner": "cylab-tw",
                     "repo": "bluelight",
                     "stars": 156
@@ -711,7 +711,7 @@
                     "last_commit": "2026-08-03T17:17:51Z",
                     "owner": "pydicom",
                     "repo": "pydicom",
-                    "stars": 2196
+                    "stars": 2197
                   }
                 },
                 {
@@ -753,7 +753,7 @@
                     "archived": false,
                     "id": 200103563,
                     "language": "Python",
-                    "last_commit": "2026-08-22T23:07:56Z",
+                    "last_commit": "2026-08-23T14:28:06Z",
                     "owner": "ImagingDataCommons",
                     "repo": "highdicom",
                     "stars": 239
@@ -1101,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:24:02.836Z",
+    "last_updated": "2026-08-24T04:31:14.659Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_id": 615461157,
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
