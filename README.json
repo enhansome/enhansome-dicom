@@ -112,7 +112,7 @@
                     "archived": false,
                     "id": 1069177,
                     "language": "C++",
-                    "last_commit": "2026-08-23T06:59:30Z",
+                    "last_commit": "2026-08-26T00:55:59Z",
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
                     "stars": 1082
@@ -142,7 +142,7 @@
                     "archived": false,
                     "id": 102939816,
                     "language": "C++",
-                    "last_commit": "2026-08-21T13:52:41Z",
+                    "last_commit": "2026-08-25T18:15:33Z",
                     "owner": "DCMTK",
                     "repo": "dcmtk",
                     "stars": 901
@@ -160,7 +160,7 @@
                     "last_commit": "2026-08-22T20:06:58Z",
                     "owner": "MITK",
                     "repo": "MITK",
-                    "stars": 835
+                    "stars": 836
                   }
                 },
                 {
@@ -239,7 +239,7 @@
                     "archived": false,
                     "id": 25434012,
                     "language": "C++",
-                    "last_commit": "2026-08-19T14:13:35Z",
+                    "last_commit": "2026-08-25T11:58:44Z",
                     "owner": "rordenlab",
                     "repo": "dcm2niix",
                     "stars": 1181
@@ -291,7 +291,7 @@
                     "archived": false,
                     "id": 89630691,
                     "language": "C++",
-                    "last_commit": "2026-08-24T06:27:42Z",
+                    "last_commit": "2026-08-26T03:31:17Z",
                     "owner": "hdclark",
                     "repo": "DICOMautomaton",
                     "stars": 90
@@ -409,10 +409,10 @@
                     "archived": false,
                     "id": 3484241,
                     "language": "Java",
-                    "last_commit": "2026-08-24T05:58:35Z",
+                    "last_commit": "2026-08-25T18:56:01Z",
                     "owner": "nroduit",
                     "repo": "Weasis",
-                    "stars": 1315
+                    "stars": 1316
                   }
                 }
               ],
@@ -441,7 +441,7 @@
                     "last_commit": "2026-07-18T03:40:03Z",
                     "owner": "dcmjs-org",
                     "repo": "dcmjs",
-                    "stars": 349
+                    "stars": 350
                   }
                 },
                 {
@@ -486,7 +486,7 @@
                     "last_commit": "2026-03-22T21:27:37Z",
                     "owner": "knopkem",
                     "repo": "dicomweb-pacs",
-                    "stars": 125
+                    "stars": 126
                   }
                 },
                 {
@@ -565,10 +565,10 @@
                     "archived": false,
                     "id": 44164233,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T19:06:04Z",
+                    "last_commit": "2026-08-25T22:39:05Z",
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4308
+                    "stars": 4310
                   }
                 },
                 {
@@ -583,7 +583,7 @@
                     "last_commit": "2026-08-22T12:34:18Z",
                     "owner": "ivmartel",
                     "repo": "dwv",
-                    "stars": 1843
+                    "stars": 1844
                   }
                 },
                 {
@@ -598,7 +598,7 @@
                     "last_commit": "2026-08-18T15:49:28Z",
                     "owner": "niivue",
                     "repo": "niivue",
-                    "stars": 481
+                    "stars": 482
                   }
                 },
                 {
@@ -613,7 +613,7 @@
                     "last_commit": "2026-08-18T15:41:13Z",
                     "owner": "Kitware",
                     "repo": "VolView",
-                    "stars": 295
+                    "stars": 296
                   }
                 },
                 {
@@ -673,7 +673,7 @@
                     "last_commit": "2026-05-19T05:49:56Z",
                     "owner": "ivmartel",
                     "repo": "dwv-react",
-                    "stars": 130
+                    "stars": 131
                   }
                 },
                 {
@@ -843,7 +843,7 @@
                     "last_commit": "2024-09-03T23:00:22Z",
                     "owner": "loli",
                     "repo": "medpy",
-                    "stars": 620
+                    "stars": 621
                   }
                 },
                 {
@@ -1123,7 +1123,7 @@
                     "archived": false,
                     "id": 211418026,
                     "language": "Python",
-                    "last_commit": "2026-06-22T00:23:17Z",
+                    "last_commit": "2026-08-26T02:29:17Z",
                     "owner": "didymo",
                     "repo": "OnkoDICOM",
                     "stars": 72
@@ -1306,7 +1306,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:17.895Z",
+    "last_updated": "2026-08-26T04:25:40.450Z",
     "original_repository": "open-dicom/awesome-dicom",
     "original_repository_id": 615461157,
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
