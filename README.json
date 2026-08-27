@@ -112,7 +112,7 @@
                     "archived": false,
                     "id": 1069177,
                     "language": "C++",
-                    "last_commit": "2026-08-26T19:59:49Z",
+                    "last_commit": "2026-08-27T14:34:25Z",
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
                     "stars": 1082
@@ -217,7 +217,7 @@
                     "archived": false,
                     "id": 89207688,
                     "language": "C++",
-                    "last_commit": "2026-08-25T02:54:42Z",
+                    "last_commit": "2026-08-27T12:18:28Z",
                     "owner": "jodogne",
                     "repo": "OrthancMirror",
                     "stars": 42
@@ -242,7 +242,7 @@
                     "last_commit": "2026-08-25T11:58:44Z",
                     "owner": "rordenlab",
                     "repo": "dcm2niix",
-                    "stars": 1182
+                    "stars": 1183
                   }
                 },
                 {
@@ -565,7 +565,7 @@
                     "archived": false,
                     "id": 44164233,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T02:09:23Z",
+                    "last_commit": "2026-08-27T14:40:21Z",
                     "owner": "OHIF",
                     "repo": "Viewers",
                     "stars": 4310
@@ -828,7 +828,7 @@
                     "last_commit": "2026-08-03T17:17:51Z",
                     "owner": "pydicom",
                     "repo": "pydicom",
-                    "stars": 2197
+                    "stars": 2198
                   }
                 },
                 {
@@ -1306,7 +1306,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:10.326Z",
+    "last_updated": "2026-08-27T14:48:15.696Z",
     "original_repository_info": {
       "archived": false,
       "id": 615461157,
