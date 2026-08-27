@@ -112,7 +112,7 @@
                     "archived": false,
                     "id": 1069177,
                     "language": "C++",
-                    "last_commit": "2026-08-26T00:55:59Z",
+                    "last_commit": "2026-08-26T19:59:49Z",
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
                     "stars": 1082
@@ -242,7 +242,7 @@
                     "last_commit": "2026-08-25T11:58:44Z",
                     "owner": "rordenlab",
                     "repo": "dcm2niix",
-                    "stars": 1181
+                    "stars": 1182
                   }
                 },
                 {
@@ -291,7 +291,7 @@
                     "archived": false,
                     "id": 89630691,
                     "language": "C++",
-                    "last_commit": "2026-08-26T03:31:17Z",
+                    "last_commit": "2026-08-26T23:45:07Z",
                     "owner": "hdclark",
                     "repo": "DICOMautomaton",
                     "stars": 90
@@ -409,10 +409,10 @@
                     "archived": false,
                     "id": 3484241,
                     "language": "Java",
-                    "last_commit": "2026-08-25T18:56:01Z",
+                    "last_commit": "2026-08-26T06:25:08Z",
                     "owner": "nroduit",
                     "repo": "Weasis",
-                    "stars": 1316
+                    "stars": 1318
                   }
                 }
               ],
@@ -565,7 +565,7 @@
                     "archived": false,
                     "id": 44164233,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T22:39:05Z",
+                    "last_commit": "2026-08-27T02:09:23Z",
                     "owner": "OHIF",
                     "repo": "Viewers",
                     "stars": 4310
@@ -598,7 +598,7 @@
                     "last_commit": "2026-08-18T15:49:28Z",
                     "owner": "niivue",
                     "repo": "niivue",
-                    "stars": 482
+                    "stars": 485
                   }
                 },
                 {
@@ -613,7 +613,7 @@
                     "last_commit": "2026-08-18T15:41:13Z",
                     "owner": "Kitware",
                     "repo": "VolView",
-                    "stars": 296
+                    "stars": 297
                   }
                 },
                 {
@@ -655,7 +655,7 @@
                     "archived": false,
                     "id": 252211443,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-23T16:02:00Z",
+                    "last_commit": "2026-08-26T15:19:10Z",
                     "owner": "cylab-tw",
                     "repo": "bluelight",
                     "stars": 156
@@ -799,7 +799,7 @@
                     "last_commit": "2026-04-01T01:20:08Z",
                     "owner": "xiangruili",
                     "repo": "dicm2nii",
-                    "stars": 102
+                    "stars": 103
                   }
                 }
               ],
@@ -1306,9 +1306,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:25:40.450Z",
-    "original_repository": "open-dicom/awesome-dicom",
-    "original_repository_id": 615461157,
+    "last_updated": "2026-08-27T11:34:10.326Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 615461157,
+      "language": null,
+      "last_commit": "2026-05-19T19:42:26Z",
+      "owner": "open-dicom",
+      "repo": "awesome-dicom",
+      "stars": 400
+    },
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
     "enhanced_repository": "enhansome/enhansome-dicom",
     "enhanced_repository_description": null,
