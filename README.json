@@ -20,7 +20,8 @@
                     "owner": "fo-dicom",
                     "repo": "fo-dicom",
                     "stars": 1210
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -31,11 +32,12 @@
                     "archived": false,
                     "id": 187111872,
                     "language": "C#",
-                    "last_commit": "2026-08-24T09:14:12Z",
+                    "last_commit": "2026-08-27T20:05:22Z",
                     "owner": "microsoft",
                     "repo": "dicom-server",
                     "stars": 512
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "DICOMcloud",
                     "repo": "DICOMcloud",
                     "stars": 235
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "rexcardan",
                     "repo": "Evil-DICOM",
                     "stars": 190
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -87,7 +91,8 @@
                     "owner": "mlavik1",
                     "repo": "UnityVolumeRendering",
                     "stars": 561
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -112,11 +117,12 @@
                     "archived": false,
                     "id": 1069177,
                     "language": "C++",
-                    "last_commit": "2026-08-27T14:34:25Z",
+                    "last_commit": "2026-08-28T13:22:55Z",
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
-                    "stars": 1082
-                  }
+                    "stars": 1083
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -131,7 +137,8 @@
                     "owner": "commontk",
                     "repo": "CTK",
                     "stars": 965
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -146,7 +153,8 @@
                     "owner": "DCMTK",
                     "repo": "dcmtk",
                     "stars": 901
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -161,7 +169,8 @@
                     "owner": "MITK",
                     "repo": "MITK",
                     "stars": 836
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +185,8 @@
                     "owner": "malaterre",
                     "repo": "GDCM",
                     "stars": 398
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -191,7 +201,8 @@
                     "owner": "dgobbi",
                     "repo": "vtk-dicom",
                     "stars": 286
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -202,11 +213,12 @@
                     "archived": false,
                     "id": 50675718,
                     "language": "C++",
-                    "last_commit": "2026-08-21T12:03:44Z",
+                    "last_commit": "2026-08-28T07:06:18Z",
                     "owner": "QIICR",
                     "repo": "dcmqi",
                     "stars": 284
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -221,7 +233,8 @@
                     "owner": "jodogne",
                     "repo": "OrthancMirror",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -243,7 +256,8 @@
                     "owner": "rordenlab",
                     "repo": "dcm2niix",
                     "stars": 1183
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -257,8 +271,9 @@
                     "last_commit": "2026-03-28T14:00:19Z",
                     "owner": "eidelen",
                     "repo": "DicomToMesh",
-                    "stars": 527
-                  }
+                    "stars": 528
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -273,7 +288,8 @@
                     "owner": "GoogleCloudPlatform",
                     "repo": "wsi-to-dicom-converter",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -295,7 +311,8 @@
                     "owner": "hdclark",
                     "repo": "DICOMautomaton",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -310,7 +327,8 @@
                     "owner": "DraconPern",
                     "repo": "dovo",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -336,8 +354,9 @@
                 "last_commit": "2026-06-21T03:39:58Z",
                 "owner": "suyashkumar",
                 "repo": "dicom",
-                "stars": 1080
-              }
+                "stars": 1081
+              },
+              "first_seen": "2026-08-28T15:41:47.530Z"
             }
           ],
           "description": null,
@@ -360,8 +379,9 @@
                     "last_commit": "2026-08-24T14:40:44Z",
                     "owner": "dcm4che",
                     "repo": "dcm4che",
-                    "stars": 1450
-                  }
+                    "stars": 1453
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -376,7 +396,8 @@
                     "owner": "dicoogle",
                     "repo": "dicoogle",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -391,7 +412,8 @@
                     "owner": "GoogleCloudPlatform",
                     "repo": "healthcare-dicom-dicomweb-adapter",
                     "stars": 146
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -413,7 +435,8 @@
                     "owner": "nroduit",
                     "repo": "Weasis",
                     "stars": 1318
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -442,7 +465,8 @@
                     "owner": "dcmjs-org",
                     "repo": "dcmjs",
                     "stars": 350
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -456,8 +480,9 @@
                     "last_commit": "2024-01-30T18:01:14Z",
                     "owner": "rii-mango",
                     "repo": "Daikon",
-                    "stars": 232
-                  }
+                    "stars": 231
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -472,7 +497,8 @@
                     "owner": "dcmjs-org",
                     "repo": "dicomweb-client",
                     "stars": 158
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -487,7 +513,8 @@
                     "owner": "knopkem",
                     "repo": "dicomweb-pacs",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -502,7 +529,8 @@
                     "owner": "dcmjs-org",
                     "repo": "dicomweb-server",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -517,7 +545,8 @@
                     "owner": "PantelisGeorgiadis",
                     "repo": "dcmjs-dimse",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -532,7 +561,8 @@
                     "owner": "Efferent-Health",
                     "repo": "Dicom.js",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -547,7 +577,8 @@
                     "owner": "PantelisGeorgiadis",
                     "repo": "dcmjs-codecs",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -565,11 +596,12 @@
                     "archived": false,
                     "id": 44164233,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T14:40:21Z",
+                    "last_commit": "2026-08-28T14:43:11Z",
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4310
-                  }
+                    "stars": 4311
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -583,8 +615,9 @@
                     "last_commit": "2026-08-22T12:34:18Z",
                     "owner": "ivmartel",
                     "repo": "dwv",
-                    "stars": 1844
-                  }
+                    "stars": 1845
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -599,7 +632,8 @@
                     "owner": "niivue",
                     "repo": "niivue",
                     "stars": 485
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -610,11 +644,12 @@
                     "archived": false,
                     "id": 248073292,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T15:41:13Z",
+                    "last_commit": "2026-08-27T23:24:40Z",
                     "owner": "Kitware",
                     "repo": "VolView",
                     "stars": 297
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -629,7 +664,8 @@
                     "owner": "ayselafsar",
                     "repo": "dicomviewer",
                     "stars": 265
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -644,7 +680,8 @@
                     "owner": "webnamics",
                     "repo": "u-dicom-viewer",
                     "stars": 193
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -659,7 +696,8 @@
                     "owner": "cylab-tw",
                     "repo": "bluelight",
                     "stars": 156
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -674,7 +712,8 @@
                     "owner": "ivmartel",
                     "repo": "dwv-react",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -689,7 +728,8 @@
                     "owner": "ImagingDataCommons",
                     "repo": "dicom-microscopy-viewer",
                     "stars": 128
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -704,7 +744,8 @@
                     "owner": "PantelisGeorgiadis",
                     "repo": "dcmjs-imaging",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -719,7 +760,8 @@
                     "owner": "wearemothership",
                     "repo": "dicom.ts",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -734,7 +776,8 @@
                     "owner": "fourctv",
                     "repo": "dicomViewerLib",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -749,7 +792,8 @@
                     "owner": "PantelisGeorgiadis",
                     "repo": "dcmjs-ecg",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -771,7 +815,8 @@
                     "owner": "knopkem",
                     "repo": "dicomweb-proxy",
                     "stars": 82
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -800,7 +845,8 @@
                     "owner": "xiangruili",
                     "repo": "dicm2nii",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -828,8 +874,9 @@
                     "last_commit": "2026-08-03T17:17:51Z",
                     "owner": "pydicom",
                     "repo": "pydicom",
-                    "stars": 2198
-                  }
+                    "stars": 2199
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -844,7 +891,8 @@
                     "owner": "loli",
                     "repo": "medpy",
                     "stars": 621
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -859,7 +907,8 @@
                     "owner": "pydicom",
                     "repo": "pynetdicom",
                     "stars": 570
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -870,11 +919,12 @@
                     "archived": false,
                     "id": 200103563,
                     "language": "Python",
-                    "last_commit": "2026-08-23T14:28:06Z",
+                    "last_commit": "2026-08-28T13:53:12Z",
                     "owner": "ImagingDataCommons",
                     "repo": "highdicom",
                     "stars": 239
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -889,7 +939,8 @@
                     "owner": "ImagingDataCommons",
                     "repo": "dicomweb-client",
                     "stars": 128
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -911,7 +962,8 @@
                     "owner": "icometrix",
                     "repo": "dicom2nifti",
                     "stars": 403
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -922,11 +974,12 @@
                     "archived": false,
                     "id": 42650211,
                     "language": "Python",
-                    "last_commit": "2026-08-10T21:57:48Z",
+                    "last_commit": "2026-08-27T21:04:23Z",
                     "owner": "nipy",
                     "repo": "heudiconv",
                     "stars": 283
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -940,8 +993,9 @@
                     "last_commit": "2026-07-29T15:15:49Z",
                     "owner": "dave3d",
                     "repo": "dicom2stl",
-                    "stars": 215
-                  }
+                    "stars": 216
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -956,7 +1010,8 @@
                     "owner": "moloney",
                     "repo": "dcmstack",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -971,7 +1026,8 @@
                     "owner": "jmtyszka",
                     "repo": "bidskit",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -986,7 +1042,8 @@
                     "owner": "lamyj",
                     "repo": "dicomifier",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -1008,7 +1065,8 @@
                     "owner": "pydicom",
                     "repo": "deid",
                     "stars": 177
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -1023,7 +1081,8 @@
                     "owner": "KitwareMedical",
                     "repo": "dicom-anonymizer",
                     "stars": 143
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -1038,7 +1097,8 @@
                     "owner": "aces",
                     "repo": "DICAT",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -1053,7 +1113,8 @@
                     "owner": "Ces107",
                     "repo": "dcm-anon",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -1075,7 +1136,8 @@
                     "owner": "pieper",
                     "repo": "dicomsort",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -1097,7 +1159,8 @@
                     "owner": "rordenlab",
                     "repo": "MRIcroGL",
                     "stars": 290
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -1112,7 +1175,8 @@
                     "owner": "marcodebe",
                     "repo": "dicom-ecg-plot",
                     "stars": 160
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -1127,7 +1191,8 @@
                     "owner": "didymo",
                     "repo": "OnkoDICOM",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -1149,7 +1214,8 @@
                     "owner": "innolitics",
                     "repo": "dicom-standard",
                     "stars": 132
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -1164,7 +1230,8 @@
                     "owner": "Sikerdebaard",
                     "repo": "dcmrtstruct2nii",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -1179,7 +1246,8 @@
                     "owner": "innolitics",
                     "repo": "dicom-numpy",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -1205,8 +1273,9 @@
                 "last_commit": "2026-08-24T15:02:01Z",
                 "owner": "Enet4",
                 "repo": "dicom-rs",
-                "stars": 557
-              }
+                "stars": 558
+              },
+              "first_seen": "2026-08-28T15:41:47.530Z"
             }
           ],
           "description": null,
@@ -1230,7 +1299,8 @@
                     "owner": "Emory-HITI",
                     "repo": "Niffler",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 },
                 {
                   "node_type": "item",
@@ -1245,7 +1315,8 @@
                     "owner": "mercure-imaging",
                     "repo": "mercure",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -1267,7 +1338,8 @@
                     "owner": "dvtk-org",
                     "repo": "DVTk",
                     "stars": 192
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -1289,7 +1361,8 @@
                     "owner": "AlizaMedicalImaging",
                     "repo": "AlizaMS",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
                 }
               ],
               "description": null,
@@ -1306,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:48:15.696Z",
+    "last_updated": "2026-08-28T15:41:47.530Z",
     "original_repository_info": {
       "archived": false,
       "id": 615461157,
