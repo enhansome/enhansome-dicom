@@ -92,7 +92,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Visualization
 
-* [Weasis](https://github.com/nroduit/Weasis) ⭐ 1,319 | 🐛 36 | 🌐 Java | 📅 2026-08-26 - A multipurpose standalone and web-based DICOM viewer with a highly modular architecture.
+* [Weasis](https://github.com/nroduit/Weasis) ⭐ 1,320 | 🐛 36 | 🌐 Java | 📅 2026-08-26 - A multipurpose standalone and web-based DICOM viewer with a highly modular architecture.
 
 ### JavaScript
 
@@ -111,10 +111,10 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Visualization
 
-* [Viewers](https://github.com/OHIF/Viewers) ⭐ 4,312 | 🐛 543 | 🌐 TypeScript | 📅 2026-08-28 - A zero-footprint medical image viewer provided by the [Open Health Imaging Foundation (OHIF)](https://ohif.org/). It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support DICOMWeb.
-* [DWV](https://github.com/ivmartel/dwv) ⭐ 1,845 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-22 - DICOM Web Viewer (DWV) is an open source zero footprint medical image viewer library. It uses only JavaScript and HTML5 technologies, meaning that it can be run on any platform that provides a modern browser (laptop, tablet, phone and even modern TVs).
+* [Viewers](https://github.com/OHIF/Viewers) ⭐ 4,314 | 🐛 543 | 🌐 TypeScript | 📅 2026-08-28 - A zero-footprint medical image viewer provided by the [Open Health Imaging Foundation (OHIF)](https://ohif.org/). It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support DICOMWeb.
+* [DWV](https://github.com/ivmartel/dwv) ⭐ 1,846 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-22 - DICOM Web Viewer (DWV) is an open source zero footprint medical image viewer library. It uses only JavaScript and HTML5 technologies, meaning that it can be run on any platform that provides a modern browser (laptop, tablet, phone and even modern TVs).
 * [NiiVue](https://github.com/niivue/niivue) ⭐ 485 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-18 - A WebGL module that can be embedded into HTML, Vue.js, Angular, React, Electron and Capacitor frameworks. It provides scripting and drag and drop abilities to visualize and render voxel-based images (e.g., DICOM and NIfTI), meshes, and tractography streamlines and connectomes, as well as drawing functions ([demos](https://niivue.github.io/niivue/)).
-* [VolView](https://github.com/Kitware/VolView) ⭐ 298 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-27 - Web based radiological viewer for clinical professionals. Built with [Vue.js](https://vuejs.org/) and [VTK.js](https://github.com/Kitware/vtk-js) ⭐ 1,524 | 🐛 296 | 🌐 JavaScript | 📅 2026-08-28.
+* [VolView](https://github.com/Kitware/VolView) ⭐ 299 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-27 - Web based radiological viewer for clinical professionals. Built with [Vue.js](https://vuejs.org/) and [VTK.js](https://github.com/Kitware/vtk-js) ⭐ 1,524 | 🐛 296 | 🌐 JavaScript | 📅 2026-08-28.
 * [dicomviewer](https://github.com/ayselafsar/dicomviewer) ⭐ 265 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-07 - A DICOM viewer which uses the cornerstone.js library to display DICOM files in Nextcloud.
 * [U Dicom Viewer](https://github.com/webnamics/u-dicom-viewer) ⭐ 193 | 🐛 41 | 🌐 JavaScript | 📅 2023-04-13 - A simple but functional DICOM viewer for any device with a web browser. Allows opening and viewing 2D medical images in a wide variety of DICOM formats.
 * [bluelight](https://github.com/cylab-tw/bluelight) ⭐ 156 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-26 - Browser-based medical image viewer primarily maintained by the [Imaging Informatics Labs](https://cylab.dicom.tw/). It is a pure single-page application (SPA), lightweight, and using only JavaScript and HTML5 technologies to easily deploy it on any HTTP server.
@@ -197,7 +197,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Visualization
 
-* [AlizaMS](https://github.com/AlizaMedicalImaging/AlizaMS) ⭐ 310 | 🐛 3 | 🌐 C++ | 📅 2026-08-19 - DICOM viewer.
+* [AlizaMS](https://github.com/AlizaMedicalImaging/AlizaMS) ⭐ 311 | 🐛 3 | 🌐 C++ | 📅 2026-08-19 - DICOM viewer.
 
 #### Image Computing Platforms
 

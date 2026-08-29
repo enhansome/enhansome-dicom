@@ -746,7 +746,7 @@
                     "open_issues": 36,
                     "owner": "nroduit",
                     "repo": "Weasis",
-                    "stars": 1319,
+                    "stars": 1320,
                     "topics": [
                       "dicom",
                       "dicom-image",
@@ -1033,7 +1033,7 @@
                     "open_issues": 543,
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4312,
+                    "stars": 4314,
                     "topics": [
                       "cancer-imaging-research",
                       "dicom",
@@ -1071,7 +1071,7 @@
                     "open_issues": 46,
                     "owner": "ivmartel",
                     "repo": "dwv",
-                    "stars": 1845,
+                    "stars": 1846,
                     "topics": [
                       "dicom",
                       "dicom-viewer",
@@ -1127,7 +1127,7 @@
                     "open_issues": 89,
                     "owner": "Kitware",
                     "repo": "VolView",
-                    "stars": 298,
+                    "stars": 299,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
@@ -2253,7 +2253,7 @@
                     "open_issues": 3,
                     "owner": "AlizaMedicalImaging",
                     "repo": "AlizaMS",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": [
                       "3d",
                       "dicom",
@@ -2289,7 +2289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:43.238Z",
+    "last_updated": "2026-08-29T10:28:04.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DICOM resources and libraries.",
