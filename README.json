@@ -14,12 +14,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fellow Oak DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity",
+                    "homepage": "https://fo-dicom.github.io/stable/v5/index.html",
                     "id": 35329761,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-15T16:35:01Z",
+                    "open_issues": 69,
                     "owner": "fo-dicom",
                     "repo": "fo-dicom",
-                    "stars": 1210
+                    "stars": 1210,
+                    "topics": [
+                      "c-sharp",
+                      "dicom",
+                      "dot-net",
+                      "fo-dicom",
+                      "jpeg",
+                      "medical",
+                      "medical-imaging",
+                      "netcore",
+                      "netstandard",
+                      "nuget"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -30,12 +46,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OSS Implementation of DICOMweb standard",
+                    "homepage": null,
                     "id": 187111872,
                     "language": "C#",
-                    "last_commit": "2026-08-27T20:05:22Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:29:24Z",
+                    "open_issues": 18,
                     "owner": "microsoft",
                     "repo": "dicom-server",
-                    "stars": 512
+                    "stars": 512,
+                    "topics": [
+                      "azure",
+                      "dicom",
+                      "dicomweb",
+                      "fhir",
+                      "healthcare",
+                      "medical-imaging"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -46,12 +74,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Azure friendly DICOMweb part 18 .NET server with qido-rs, wado-rs, stow-rs, wado-uri RESTful implementation",
+                    "homepage": "http://dicomcloud.azurewebsites.net/",
                     "id": 100144311,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-15T09:58:31Z",
+                    "open_issues": 30,
                     "owner": "DICOMcloud",
                     "repo": "DICOMcloud",
-                    "stars": 235
+                    "stars": 235,
+                    "topics": [
+                      "azure",
+                      "dicom",
+                      "dicom-server",
+                      "dicomcloud",
+                      "dicomweb",
+                      "dotnet",
+                      "qido-rs",
+                      "stow-rs",
+                      "wado",
+                      "wado-rs",
+                      "wado-uri"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -62,12 +107,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A C# DICOM Library",
+                    "homepage": null,
                     "id": 5342318,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2024-08-20T16:12:41Z",
+                    "open_issues": 26,
                     "owner": "rexcardan",
                     "repo": "Evil-DICOM",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": [
+                      "dicom",
+                      "medical-physics",
+                      "radiation-oncology",
+                      "radiology"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -85,12 +140,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will be greatly motivated!",
+                    "homepage": "https://fosstodon.org/@unityvolrend",
                     "id": 170160188,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-03-12T19:33:30Z",
+                    "open_issues": 70,
                     "owner": "mlavik1",
                     "repo": "UnityVolumeRendering",
-                    "stars": 561
+                    "stars": 561,
+                    "topics": [
+                      "computer-graphics",
+                      "dicom",
+                      "raymarching",
+                      "shaders",
+                      "transfer-functions",
+                      "unity",
+                      "unity3d",
+                      "volume-rendering"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -115,12 +184,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SimpleITK: a layer built on top of the Insight Toolkit (ITK), intended to simplify and facilitate ITK's use in rapid prototyping, education and interpreted languages.",
+                    "homepage": "http://www.simpleitk.org",
                     "id": 1069177,
                     "language": "C++",
-                    "last_commit": "2026-08-28T13:22:55Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T01:02:12Z",
+                    "open_issues": 101,
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
-                    "stars": 1083
+                    "stars": 1083,
+                    "topics": [
+                      "c-plus-plus",
+                      "csharp",
+                      "image-analysis",
+                      "image-processing",
+                      "itk",
+                      "java",
+                      "lua",
+                      "python",
+                      "r",
+                      "registration",
+                      "ruby",
+                      "segmentation",
+                      "simpleitk",
+                      "swig",
+                      "tcl"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -131,12 +221,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of common support code for medical imaging, surgical navigation, and related purposes.",
+                    "homepage": "https://commontk.org",
                     "id": 720294,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-12T05:29:46Z",
+                    "open_issues": 230,
                     "owner": "commontk",
                     "repo": "CTK",
-                    "stars": 965
+                    "stars": 965,
+                    "topics": [
+                      "3d-slicer",
+                      "c-plus-plus",
+                      "cross-platform",
+                      "dicom",
+                      "itk",
+                      "medical-imaging",
+                      "mitk",
+                      "open-source",
+                      "osgi",
+                      "plugin-manager",
+                      "python",
+                      "qt",
+                      "vtk"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -147,12 +256,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official DCMTK Github Mirror",
+                    "homepage": "https://git.dcmtk.org/",
                     "id": 102939816,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T18:15:33Z",
+                    "open_issues": 14,
                     "owner": "DCMTK",
                     "repo": "dcmtk",
-                    "stars": 901
+                    "stars": 901,
+                    "topics": [
+                      "bsd-3-clause",
+                      "dcmtk",
+                      "dicom",
+                      "toolkit"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -163,12 +282,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Medical Imaging Interaction Toolkit.",
+                    "homepage": "http://www.mitk.org",
                     "id": 1760792,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-22T20:06:58Z",
+                    "open_issues": 2,
                     "owner": "MITK",
                     "repo": "MITK",
-                    "stars": 836
+                    "stars": 836,
+                    "topics": [
+                      "cpp-library",
+                      "dicom",
+                      "dicom-browser",
+                      "dicom-rt",
+                      "medical-image-computing",
+                      "medical-imaging",
+                      "mitk"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -179,12 +311,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Grassroots DICOM read-only mirror. Only for Pull Request. Please report bug at http://sf.net/p/gdcm",
+                    "homepage": "http://gdcm.sf.net",
                     "id": 1081667,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-21T07:55:49Z",
+                    "open_issues": 6,
                     "owner": "malaterre",
                     "repo": "GDCM",
-                    "stars": 398
+                    "stars": 398,
+                    "topics": [
+                      "c-plus-plus",
+                      "compression",
+                      "csharp",
+                      "dicom",
+                      "java",
+                      "medical-imaging",
+                      "python",
+                      "swig"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -195,12 +341,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of classes for using DICOM in VTK.",
+                    "homepage": null,
                     "id": 10230441,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T23:20:27Z",
+                    "open_issues": 66,
                     "owner": "dgobbi",
                     "repo": "vtk-dicom",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -211,12 +362,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "dcmqi (DICOM for Quantitative Imaging) is a C++ library for conversion between imaging research formats and the standard DICOM representation for image analysis results",
+                    "homepage": "https://qiicr.gitbook.io/dcmqi-guide/",
                     "id": 50675718,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T07:06:18Z",
+                    "open_issues": 76,
                     "owner": "QIICR",
                     "repo": "dcmqi",
-                    "stars": 284
+                    "stars": 284,
+                    "topics": [
+                      "3d-slicer",
+                      "3d-slicer-extension",
+                      "cancer-imaging-research",
+                      "converters",
+                      "dicom",
+                      "imaging-informatics",
+                      "medical-image-computing",
+                      "nci-itcr",
+                      "nci-qin",
+                      "quantitative-imaging",
+                      "tcia-dac"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -227,12 +395,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mirror for the Orthanc server core from Mercurial: https://orthanc.uclouvain.be/hg/orthanc/",
+                    "homepage": null,
                     "id": 89207688,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T12:18:28Z",
+                    "open_issues": 0,
                     "owner": "jodogne",
                     "repo": "OrthancMirror",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -250,12 +423,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "dcm2nii DICOM to NIfTI converter: compiled versions available from NITRC",
+                    "homepage": "https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage",
                     "id": 25434012,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T11:58:44Z",
+                    "open_issues": 4,
                     "owner": "rordenlab",
                     "repo": "dcm2niix",
-                    "stars": 1183
+                    "stars": 1183,
+                    "topics": [
+                      "bids-format",
+                      "dcm",
+                      "dcm2niix",
+                      "dicom",
+                      "dicom-images",
+                      "gz",
+                      "jpeg",
+                      "jpeg-image",
+                      "mri",
+                      "mri-images",
+                      "mricrogl",
+                      "neuroimaging",
+                      "neuroscience",
+                      "nifti",
+                      "nifti-format",
+                      "nii",
+                      "nitrc",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -266,12 +463,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows.",
+                    "homepage": null,
                     "id": 94871929,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-03-28T14:00:19Z",
+                    "open_issues": 6,
                     "owner": "eidelen",
                     "repo": "DicomToMesh",
-                    "stars": 528
+                    "stars": 528,
+                    "topics": [
+                      "3d",
+                      "3d-mesh",
+                      "ct-scans",
+                      "dicom",
+                      "mesh",
+                      "mesh-generation",
+                      "mesh-processing",
+                      "obj",
+                      "ply",
+                      "stl",
+                      "surface-reconstruction",
+                      "threshold",
+                      "visualisation",
+                      "vtk"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -282,12 +499,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Conversion tool/library for converting whole slide images to DICOM",
+                    "homepage": null,
                     "id": 191454643,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-20T23:01:50Z",
+                    "open_issues": 12,
                     "owner": "GoogleCloudPlatform",
                     "repo": "wsi-to-dicom-converter",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": [
+                      "dicom",
+                      "openslide",
+                      "wsi"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -305,12 +531,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A multipurpose tool for medical physics.",
+                    "homepage": "https://halclark.ca",
                     "id": 89630691,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T23:45:07Z",
+                    "open_issues": 35,
                     "owner": "hdclark",
                     "repo": "DICOMautomaton",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": [
+                      "contours",
+                      "dicom",
+                      "dose",
+                      "image-analysis",
+                      "image-processing",
+                      "medical-physics",
+                      "perfusion",
+                      "point-clouds",
+                      "radiomics-feature-extraction",
+                      "radiotherapy",
+                      "registration",
+                      "surface-meshes"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -321,12 +565,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform software for Importing DICOM CD/files and sending to PACS.",
+                    "homepage": "https://www.draconpern.com/software/dovo",
                     "id": 31513011,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-30T12:39:22Z",
+                    "open_issues": 2,
                     "owner": "DraconPern",
                     "repo": "dovo",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "dicom"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -349,12 +600,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡High Performance DICOM Medical Image Parser in Go.",
+                "homepage": null,
                 "id": 153484854,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-21T03:39:58Z",
+                "open_issues": 135,
                 "owner": "suyashkumar",
                 "repo": "dicom",
-                "stars": 1081
+                "stars": 1081,
+                "topics": [
+                  "dcm",
+                  "dicom",
+                  "dicom-files",
+                  "dicom-images",
+                  "go",
+                  "golang",
+                  "golang-library",
+                  "golang-package",
+                  "imaging",
+                  "medical",
+                  "medical-image-analysis",
+                  "medical-imaging",
+                  "pacs",
+                  "parser",
+                  "real-time",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T15:41:47.530Z"
             }
@@ -374,12 +647,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM Implementation in JAVA",
+                    "homepage": "www.dcm4che.org",
                     "id": 912291,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T14:40:44Z",
+                    "open_issues": 163,
                     "owner": "dcm4che",
                     "repo": "dcm4che",
-                    "stars": 1453
+                    "stars": 1453,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -390,12 +668,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dicoogle - Open Source PACS",
+                    "homepage": "http://www.dicoogle.com/",
                     "id": 28088570,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-15T11:23:59Z",
+                    "open_issues": 61,
                     "owner": "dicoogle",
                     "repo": "dicoogle",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": [
+                      "dicom",
+                      "dicom-standard",
+                      "dicoogle",
+                      "dicoogle-platform",
+                      "hacktoberfest",
+                      "java",
+                      "javascript",
+                      "medical-image-computing",
+                      "medical-imaging",
+                      "medical-informatics",
+                      "metadata",
+                      "nodejs",
+                      "pacs",
+                      "reactjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -406,12 +704,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adapter which transforms DIMSE requests to DICOMweb requests",
+                    "homepage": null,
                     "id": 190783541,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-22T05:31:16Z",
+                    "open_issues": 27,
                     "owner": "GoogleCloudPlatform",
                     "repo": "healthcare-dicom-dicomweb-adapter",
-                    "stars": 146
+                    "stars": 146,
+                    "topics": [
+                      "dicom",
+                      "dicomweb",
+                      "google-cloud",
+                      "google-cloud-healthcare-api"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -429,12 +737,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.",
+                    "homepage": "https://weasis.org",
                     "id": 3484241,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T06:25:08Z",
+                    "open_issues": 36,
                     "owner": "nroduit",
                     "repo": "Weasis",
-                    "stars": 1318
+                    "stars": 1319,
+                    "topics": [
+                      "dicom",
+                      "dicom-image",
+                      "dicom-image-viewer",
+                      "dicom-images",
+                      "dicom-pr",
+                      "dicom-rt",
+                      "dicom-seg",
+                      "dicom-viewer",
+                      "dicom-web-viewer",
+                      "dicomweb",
+                      "ecg",
+                      "export-dicom",
+                      "medical",
+                      "medical-imaging",
+                      "multiplanar-reconstruction",
+                      "viewer",
+                      "volume-rendering",
+                      "weasis"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -459,12 +791,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Javascript implementation of DICOM manipulation                       ",
+                    "homepage": "https://dcmjs.netlify.com/",
                     "id": 95673749,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-18T03:40:03Z",
+                    "open_issues": 119,
                     "owner": "dcmjs-org",
                     "repo": "dcmjs",
-                    "stars": 350
+                    "stars": 350,
+                    "topics": [
+                      "dicom",
+                      "javascript",
+                      "medical-imaging",
+                      "nci-itcr"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -475,12 +817,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A JavaScript DICOM reader.",
+                    "homepage": null,
                     "id": 31975191,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-01-30T18:01:14Z",
+                    "open_issues": 3,
                     "owner": "rii-mango",
                     "repo": "Daikon",
-                    "stars": 231
+                    "stars": 231,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -491,12 +838,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaScript client for DICOMweb RESTful services            ",
+                    "homepage": null,
                     "id": 132512588,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-13T22:12:32Z",
+                    "open_issues": 26,
                     "owner": "dcmjs-org",
                     "repo": "dicomweb-client",
-                    "stars": 158
+                    "stars": 158,
+                    "topics": [
+                      "dicom",
+                      "dicom-json",
+                      "dicomweb",
+                      "http",
+                      "imaging-informatics",
+                      "javascript",
+                      "nci-itcr",
+                      "npm"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -507,12 +868,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy to use DICOMWEB enabled PACS with DIMSE services based on sqlite database",
+                    "homepage": null,
                     "id": 299126397,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-22T21:27:37Z",
+                    "open_issues": 6,
                     "owner": "knopkem",
                     "repo": "dicomweb-pacs",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": [
+                      "c-find",
+                      "c-move",
+                      "dcm4chee",
+                      "dcmtk",
+                      "dicom",
+                      "dicom-viewer",
+                      "dicomweb",
+                      "dicomweb-server",
+                      "dimse",
+                      "imaging",
+                      "javascript",
+                      "lightweight",
+                      "medical",
+                      "native",
+                      "nodejs",
+                      "ohif",
+                      "orthanc",
+                      "pacs",
+                      "server",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -523,12 +910,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight DICOMweb Server with CouchDB",
+                    "homepage": null,
                     "id": 167460684,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-14T20:53:23Z",
+                    "open_issues": 25,
                     "owner": "dcmjs-org",
                     "repo": "dicomweb-server",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": [
+                      "couchdb",
+                      "dicom",
+                      "dicomweb",
+                      "dicomweb-client",
+                      "dicomweb-server-js",
+                      "javascript",
+                      "lightweight-dicomweb-server",
+                      "nci-itcr",
+                      "nci-qin"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -539,12 +941,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM DIMSE implementation for Node.js using the dcmjs library",
+                    "homepage": null,
                     "id": 358926898,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-17T16:45:06Z",
+                    "open_issues": 3,
                     "owner": "PantelisGeorgiadis",
                     "repo": "dcmjs-dimse",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": [
+                      "dicom",
+                      "dimse",
+                      "pacs"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -555,12 +966,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Javascript library for reading and writing DICOM files in desktop and browser applications",
+                    "homepage": null,
                     "id": 1036890347,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-03T17:31:06Z",
+                    "open_issues": 0,
                     "owner": "Efferent-Health",
                     "repo": "Dicom.js",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "dicom",
+                      "dicom-files",
+                      "dicom-images",
+                      "dicomjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -571,12 +992,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM file and dataset transcoding for Node.js and browser using dcmjs",
+                    "homepage": null,
                     "id": 920596719,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-17T08:59:12Z",
+                    "open_issues": 0,
                     "owner": "PantelisGeorgiadis",
                     "repo": "dcmjs-codecs",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "dicom",
+                      "medical-imaging",
+                      "transcoding"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -594,12 +1024,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages",
+                    "homepage": "https://docs.ohif.org/",
                     "id": 44164233,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T14:43:11Z",
+                    "open_issues": 543,
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4311
+                    "stars": 4312,
+                    "topics": [
+                      "cancer-imaging-research",
+                      "dicom",
+                      "dicom-viewer",
+                      "hacktoberfest",
+                      "healthcare-imaging",
+                      "image-analysis",
+                      "imaging",
+                      "imaging-informatics",
+                      "javascript",
+                      "medical",
+                      "medical-image-processing",
+                      "medical-imaging",
+                      "nci-itcr",
+                      "nci-qin",
+                      "quantitative-imaging",
+                      "reactjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -610,12 +1062,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM Web Viewer: open source zero footprint medical image library.",
+                    "homepage": "https://ivmartel.github.io/dwv/",
                     "id": 2428236,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-22T12:34:18Z",
+                    "open_issues": 46,
                     "owner": "ivmartel",
                     "repo": "dwv",
-                    "stars": 1845
+                    "stars": 1845,
+                    "topics": [
+                      "dicom",
+                      "dicom-viewer",
+                      "javascript",
+                      "medical-imaging",
+                      "viewer",
+                      "zero-footprint"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -626,12 +1090,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a WebGL2 based medical image viewer. Supports over 30 formats of volumes and meshes. ",
+                    "homepage": "https://niivue.com",
                     "id": 351238167,
                     "language": "TypeScript",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-18T15:49:28Z",
+                    "open_issues": 28,
                     "owner": "niivue",
                     "repo": "niivue",
-                    "stars": 485
+                    "stars": 485,
+                    "topics": [
+                      "image",
+                      "nifti",
+                      "niivue",
+                      "viewer",
+                      "web",
+                      "webgl2"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -642,12 +1118,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "3D radiological viewer that keeps your data yours. DICOM, volume rendering and annotations in the browser.",
+                    "homepage": "https://volview.kitware.com",
                     "id": 248073292,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T23:24:40Z",
+                    "open_issues": 89,
                     "owner": "Kitware",
                     "repo": "VolView",
-                    "stars": 297
+                    "stars": 298,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -658,12 +1139,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM Viewer in Nextcloud",
+                    "homepage": "https://apps.nextcloud.com/apps/dicomviewer",
                     "id": 119534752,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-07T02:40:02Z",
+                    "open_issues": 11,
                     "owner": "ayselafsar",
                     "repo": "dicomviewer",
-                    "stars": 265
+                    "stars": 265,
+                    "topics": [
+                      "cornerstone",
+                      "dicom",
+                      "javascript",
+                      "medical-imaging",
+                      "nextcloud",
+                      "viewer"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -674,12 +1167,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple web browser DICOM viewer for any device.",
+                    "homepage": null,
                     "id": 210281987,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-13T14:42:36Z",
+                    "open_issues": 41,
                     "owner": "webnamics",
                     "repo": "u-dicom-viewer",
-                    "stars": 193
+                    "stars": 193,
+                    "topics": [
+                      "cornerstonejs",
+                      "dicom",
+                      "dicom-viewer",
+                      "dicomviewer",
+                      "javascript",
+                      "medical-images",
+                      "react",
+                      "universal-dicom-viewer",
+                      "viewer"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -690,12 +1198,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a browser-based DICOM viewer",
+                    "homepage": null,
                     "id": 252211443,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T15:19:10Z",
+                    "open_issues": 1,
                     "owner": "cylab-tw",
                     "repo": "bluelight",
-                    "stars": 156
+                    "stars": 156,
+                    "topics": [
+                      "bluelight",
+                      "dicom",
+                      "dicom-overlay",
+                      "dicom-server",
+                      "dicom-viewer",
+                      "dicom-web-viewer",
+                      "dicomweb",
+                      "html5",
+                      "orthanc",
+                      "rtss",
+                      "whole-slide-imaging",
+                      "wsi"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -706,12 +1232,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Medical image viewer using DWV (DICOM Web Viewer) and React.",
+                    "homepage": "https://ivmartel.github.io/dwv-react",
                     "id": 125933150,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-19T05:49:56Z",
+                    "open_issues": 2,
                     "owner": "ivmartel",
                     "repo": "dwv-react",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": [
+                      "dicom-web-viewer",
+                      "dwv",
+                      "medical-imaging",
+                      "react",
+                      "reactjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -722,12 +1259,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Web-based DICOM slide microscopy viewer library",
+                    "homepage": "https://imagingdatacommons.github.io/dicom-microscopy-viewer/",
                     "id": 142499554,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T20:23:52Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T17:00:22Z",
+                    "open_issues": 16,
                     "owner": "ImagingDataCommons",
                     "repo": "dicom-microscopy-viewer",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": [
+                      "dicom",
+                      "dicom-json",
+                      "dicomweb",
+                      "idc-viewers",
+                      "javascript",
+                      "npm",
+                      "openlayers"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -738,12 +1288,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM image and overlay rendering pipeline for Node.js and browser using the dcmjs library",
+                    "homepage": null,
                     "id": 430198701,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T12:22:43Z",
+                    "open_issues": 1,
                     "owner": "PantelisGeorgiadis",
                     "repo": "dcmjs-imaging",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": [
+                      "dicom",
+                      "medical-imaging"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -754,12 +1312,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A small, fast, javascript DICOM renderer",
+                    "homepage": null,
                     "id": 342274277,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-22T00:52:27Z",
+                    "open_issues": 16,
                     "owner": "wearemothership",
                     "repo": "dicom.ts",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -770,12 +1333,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Angular 9+ DICOM Viewer Component and demo app",
+                    "homepage": null,
                     "id": 152894570,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-10-29T17:29:31Z",
+                    "open_issues": 26,
                     "owner": "fourctv",
                     "repo": "dicomViewerLib",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": [
+                      "angular-9",
+                      "dicom-web-viewer"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -786,12 +1357,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM electrocardiography (ECG) rendering for Node.js and browser using dcmjs",
+                    "homepage": null,
                     "id": 557143940,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-19T14:59:38Z",
+                    "open_issues": 0,
                     "owner": "PantelisGeorgiadis",
                     "repo": "dcmjs-ecg",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "dicom",
+                      "ecg"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -809,12 +1388,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A proxy to translate between dicomweb and traditional dicom dimse services (PACS communication)",
+                    "homepage": null,
                     "id": 234349735,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-22T21:14:08Z",
+                    "open_issues": 2,
                     "owner": "knopkem",
                     "repo": "dicomweb-proxy",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": [
+                      "c-find",
+                      "c-get",
+                      "c-move",
+                      "c-store",
+                      "dcmtk",
+                      "dicom",
+                      "dicomweb",
+                      "dimse",
+                      "imaging",
+                      "javascript",
+                      "medical",
+                      "nodejs",
+                      "ohif",
+                      "pacs",
+                      "proxy",
+                      "qido-rs",
+                      "rest",
+                      "viewer",
+                      "wado-rs",
+                      "wado-uri"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -839,12 +1444,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM to NIfTI conversion, NIfTI tools",
+                    "homepage": null,
                     "id": 60989643,
                     "language": "MATLAB",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-04-01T01:20:08Z",
+                    "open_issues": 0,
                     "owner": "xiangruili",
                     "repo": "dicm2nii",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -869,12 +1479,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Read, modify and write DICOM files with python code",
+                    "homepage": "https://pydicom.github.io/pydicom/dev",
                     "id": 14006067,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-03T17:17:51Z",
+                    "open_issues": 40,
                     "owner": "pydicom",
                     "repo": "pydicom",
-                    "stars": 2199
+                    "stars": 2199,
+                    "topics": [
+                      "dicom",
+                      "pydicom",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -885,12 +1504,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Medical image processing in Python",
+                    "homepage": "http://loli.github.io/medpy/",
                     "id": 4295983,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-09-03T23:00:22Z",
+                    "open_issues": 4,
                     "owner": "loli",
                     "repo": "medpy",
-                    "stars": 621
+                    "stars": 621,
+                    "topics": [
+                      "2d",
+                      "3d",
+                      "4d",
+                      "computed-tomography",
+                      "dicom",
+                      "feature-extraction",
+                      "graph-cut",
+                      "image-classification",
+                      "image-processing",
+                      "image-segmentation",
+                      "itk",
+                      "machine-learning",
+                      "magnetic-resonance-imaging",
+                      "medical",
+                      "medpy",
+                      "mha",
+                      "mhd",
+                      "nifti-format",
+                      "python",
+                      "simpleitk"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -901,12 +1546,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python implementation of the DICOM networking protocol",
+                    "homepage": "https://pydicom.github.io/pynetdicom",
                     "id": 69436608,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T17:16:56Z",
+                    "open_issues": 21,
                     "owner": "pydicom",
                     "repo": "pynetdicom",
-                    "stars": 570
+                    "stars": 570,
+                    "topics": [
+                      "dicom",
+                      "networking",
+                      "pydicom",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -917,12 +1572,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High-level DICOM abstractions for the Python programming language ",
+                    "homepage": "https://highdicom.readthedocs.io",
                     "id": 200103563,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T13:53:12Z",
+                    "open_issues": 34,
                     "owner": "ImagingDataCommons",
                     "repo": "highdicom",
-                    "stars": 239
+                    "stars": 239,
+                    "topics": [
+                      "dicom",
+                      "numpy",
+                      "pydicom",
+                      "python3",
+                      "typehints"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -933,12 +1599,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python client for DICOMweb RESTful services",
+                    "homepage": "https://dicomweb-client.readthedocs.io",
                     "id": 125778562,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T21:05:10Z",
+                    "open_issues": 13,
                     "owner": "ImagingDataCommons",
                     "repo": "dicomweb-client",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": [
+                      "dicom",
+                      "dicomweb",
+                      "numpy",
+                      "pydicom",
+                      "pytest",
+                      "python-requests",
+                      "python3",
+                      "typehints"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -956,12 +1636,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 54062804,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-23T06:39:45Z",
+                    "open_issues": 63,
                     "owner": "icometrix",
                     "repo": "dicom2nifti",
-                    "stars": 403
+                    "stars": 403,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -972,12 +1657,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flexible DICOM conversion into structured directory layouts",
+                    "homepage": "https://heudiconv.readthedocs.io",
                     "id": 42650211,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T21:04:23Z",
+                    "open_issues": 218,
                     "owner": "nipy",
                     "repo": "heudiconv",
-                    "stars": 283
+                    "stars": 283,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -988,12 +1678,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python script to extract a STL surface from a DICOM image series.",
+                    "homepage": null,
                     "id": 18678396,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-29T15:15:49Z",
+                    "open_issues": 9,
                     "owner": "dave3d",
                     "repo": "dicom2stl",
-                    "stars": 216
+                    "stars": 216,
+                    "topics": [
+                      "dicom",
+                      "dicom-series",
+                      "isosurface",
+                      "itk",
+                      "python",
+                      "simpleitk",
+                      "stl",
+                      "stl-surface",
+                      "surface-mesh",
+                      "volume",
+                      "vtk"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1004,12 +1711,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM to Nifti conversion with meta data preservation",
+                    "homepage": null,
                     "id": 3259980,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-24T00:23:08Z",
+                    "open_issues": 18,
                     "owner": "moloney",
                     "repo": "dcmstack",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1020,12 +1732,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Utility functions for working with DICOM and BIDS neuroimaging data",
+                    "homepage": null,
                     "id": 64889181,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-29T21:51:29Z",
+                    "open_issues": 19,
                     "owner": "jmtyszka",
                     "repo": "bidskit",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": [
+                      "bids-format",
+                      "conversion",
+                      "dicom",
+                      "fmri-preproc",
+                      "mri",
+                      "neuroimaging",
+                      "nifti-images"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1036,12 +1761,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A medical image converter",
+                    "homepage": "https://dicomifier.readthedocs.io/",
                     "id": 32533252,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-20T13:49:03Z",
+                    "open_issues": 6,
                     "owner": "lamyj",
                     "repo": "dicomifier",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "bruker",
+                      "conversion",
+                      "dicom",
+                      "medical-imaging",
+                      "mri",
+                      "nifti"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -1059,12 +1796,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "best effort anonymization for medical images using python",
+                    "homepage": "https://pydicom.github.io/deid/",
                     "id": 94163984,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-12T16:52:16Z",
+                    "open_issues": 25,
                     "owner": "pydicom",
                     "repo": "deid",
-                    "stars": 177
+                    "stars": 177,
+                    "topics": [
+                      "anonymize",
+                      "deidentify",
+                      "dicom",
+                      "medical",
+                      "medical-images",
+                      "pydicom"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1075,12 +1824,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool to anonymize DICOM files according to the DICOM standard",
+                    "homepage": null,
                     "id": 242974244,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-10T09:35:49Z",
+                    "open_issues": 6,
                     "owner": "KitwareMedical",
                     "repo": "dicom-anonymizer",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1091,12 +1845,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool to anonymize DICOM data headers.",
+                    "homepage": null,
                     "id": 16005675,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-04-10T13:05:56Z",
+                    "open_issues": 7,
                     "owner": "aces",
                     "repo": "DICAT",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1107,12 +1866,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM anonymizer (PS3.15 Basic Profile) with a verbatim-cited GDPR Art. 35 / HIPAA Safe Harbor / EU AI Act compliance manifest, independent PHI residual verifier, SHA-256 audit chain, and professional PDF report. MIT.",
+                    "homepage": "https://github.com/Ces107/dcm-anon",
                     "id": 1239793211,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-07T16:59:08Z",
+                    "open_issues": 0,
                     "owner": "Ces107",
                     "repo": "dcm-anon",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "anonymization",
+                      "dicom",
+                      "dpia",
+                      "gdpr",
+                      "healthcare",
+                      "hipaa",
+                      "medical-imaging",
+                      "privacy"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -1130,12 +1903,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A project to provide custom sorting and renaming of dicom files",
+                    "homepage": null,
                     "id": 9375389,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-06T03:11:53Z",
+                    "open_issues": 8,
                     "owner": "pieper",
                     "repo": "dicomsort",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -1153,12 +1931,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "v1.2 GLSL volume rendering. Able to view NIfTI, DICOM, MGH, MHD, NRRD, AFNI format images.",
+                    "homepage": "https://www.nitrc.org/plugins/mwiki/index.php/mricrogl:MainPage",
                     "id": 159500927,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-11-23T09:04:48Z",
+                    "open_issues": 3,
                     "owner": "rordenlab",
                     "repo": "MRIcroGL",
-                    "stars": 290
+                    "stars": 290,
+                    "topics": [
+                      "bids-format",
+                      "dicom",
+                      "dicom-viewer",
+                      "glsl",
+                      "lazarus",
+                      "mricrogl",
+                      "nifti",
+                      "opengl",
+                      "visualization",
+                      "volume-rendering",
+                      "volume-renderings"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1169,12 +1964,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dicom ECG Viewer and Converter. Convert to PDF, PNG, JPG, SVG, ...",
+                    "homepage": "https://ecg.galliera.it",
                     "id": 12270662,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-28T08:34:14Z",
+                    "open_issues": 4,
                     "owner": "marcodebe",
                     "repo": "dicom-ecg-plot",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": [
+                      "dicom",
+                      "ecg",
+                      "ecg-signal",
+                      "ecg-signal-python",
+                      "pdf",
+                      "python",
+                      "svg",
+                      "viewer",
+                      "wado",
+                      "waveform-visualizer"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1185,12 +1996,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OnkoDICOM was created with Radiation Oncologists to allow Radiation Oncologists to do research on DICOM standard image sets (DICOM-RT, CT, MRI, PET) using open source technologies, such as pydicom, dicompyler-core, PySide6, PIL, and matplotlib. OnkoDICOM is cross platform, open source software, and welcomes contributions. OnkoDICOM was inspired by dicompyler.",
+                    "homepage": "https://onkodicom.com.au",
                     "id": 211418026,
                     "language": "Python",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-26T02:29:17Z",
+                    "open_issues": 35,
                     "owner": "didymo",
                     "repo": "OnkoDICOM",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -1208,12 +2024,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The DICOM standard, in JSON format, parsed from the HTML version using Python scripts",
+                    "homepage": null,
                     "id": 76508776,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-04-17T13:04:17Z",
+                    "open_issues": 53,
                     "owner": "innolitics",
                     "repo": "dicom-standard",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": [
+                      "dicom",
+                      "json",
+                      "parser",
+                      "standard"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1224,12 +2050,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM RT-Struct to mask",
+                    "homepage": null,
                     "id": 166835376,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-28T18:12:45Z",
+                    "open_issues": 9,
                     "owner": "Sikerdebaard",
                     "repo": "dcmrtstruct2nii",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1240,12 +2071,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Properly generate a 3D numpy array from a set of DICOM files.",
+                    "homepage": null,
                     "id": 86410657,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-10T19:52:24Z",
+                    "open_issues": 4,
                     "owner": "innolitics",
                     "repo": "dicom-numpy",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "dicom",
+                      "numpy"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -1268,12 +2107,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust implementation of the DICOM standard",
+                "homepage": "https://dicom-rs.github.io",
                 "id": 71735225,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T15:02:01Z",
+                "open_issues": 77,
                 "owner": "Enet4",
                 "repo": "dicom-rs",
-                "stars": 558
+                "stars": 558,
+                "topics": [
+                  "dicom",
+                  "dicom-standard",
+                  "hacktoberfest",
+                  "medical-imaging",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T15:41:47.530Z"
             }
@@ -1293,12 +2143,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Niffler: A DICOM Framework for Machine Learning and Processing Pipelines.",
+                    "homepage": "https://emory-hiti.github.io/Niffler/",
                     "id": 274853841,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-10-25T19:25:40Z",
+                    "open_issues": 3,
                     "owner": "Emory-HITI",
                     "repo": "Niffler",
-                    "stars": 104
+                    "stars": 104,
+                    "topics": [
+                      "anonymisation",
+                      "anonymization",
+                      "dicom",
+                      "dicom-server",
+                      "dicom2png",
+                      "machine-learning",
+                      "pacs",
+                      "pacs-client",
+                      "pacs-connector",
+                      "radiology",
+                      "radiology-imaging",
+                      "scanner-utilization",
+                      "scanners",
+                      "workflows"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 },
@@ -1309,12 +2179,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "mercure DICOM Orchestrator",
+                    "homepage": "https://mercure-imaging.org",
                     "id": 250666613,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T20:18:36Z",
+                    "open_issues": 11,
                     "owner": "mercure-imaging",
                     "repo": "mercure",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": [
+                      "ai",
+                      "deep-learning",
+                      "dicom",
+                      "medical",
+                      "medical-image-processing",
+                      "medical-imaging",
+                      "open-source",
+                      "routing"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -1332,12 +2216,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM Validation Toolkit",
+                    "homepage": null,
                     "id": 195784570,
                     "language": "C#",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-06T09:58:16Z",
+                    "open_issues": 23,
                     "owner": "dvtk-org",
                     "repo": "DVTk",
-                    "stars": 192
+                    "stars": 192,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -1355,12 +2244,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DICOM Viewer",
+                    "homepage": null,
                     "id": 244179792,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-19T15:01:55Z",
+                    "open_issues": 3,
                     "owner": "AlizaMedicalImaging",
                     "repo": "AlizaMS",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "3d",
+                      "dicom",
+                      "dicom-files",
+                      "dicom-image-viewer",
+                      "dicom-structured-report",
+                      "dicom-viewer",
+                      "glsl",
+                      "medical",
+                      "medical-application",
+                      "medical-imaging",
+                      "opengl",
+                      "qt",
+                      "rtstruct",
+                      "visualization",
+                      "volume-rendering"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
                 }
@@ -1379,15 +2289,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:41:47.530Z",
+    "last_updated": "2026-08-29T04:49:43.238Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome DICOM resources and libraries.",
+      "homepage": null,
       "id": 615461157,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-19T19:42:26Z",
+      "open_issues": 5,
       "owner": "open-dicom",
       "repo": "awesome-dicom",
-      "stars": 400
+      "stars": 400,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dicom",
+        "medical-imaging"
+      ]
     },
     "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
     "enhanced_repository": "enhansome/enhansome-dicom",
