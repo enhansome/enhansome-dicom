@@ -189,7 +189,7 @@
                     "id": 1069177,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T14:44:41Z",
+                    "last_commit": "2026-08-30T11:52:45Z",
                     "open_issues": 98,
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
@@ -227,7 +227,7 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-12T05:29:46Z",
-                    "open_issues": 231,
+                    "open_issues": 230,
                     "owner": "commontk",
                     "repo": "CTK",
                     "stars": 965,
@@ -265,7 +265,7 @@
                     "open_issues": 14,
                     "owner": "DCMTK",
                     "repo": "dcmtk",
-                    "stars": 901,
+                    "stars": 902,
                     "topics": [
                       "bsd-3-clause",
                       "dcmtk",
@@ -400,7 +400,7 @@
                     "id": 89207688,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-27T12:18:28Z",
+                    "last_commit": "2026-08-31T08:00:33Z",
                     "open_issues": 0,
                     "owner": "jodogne",
                     "repo": "OrthancMirror",
@@ -472,7 +472,7 @@
                     "open_issues": 6,
                     "owner": "eidelen",
                     "repo": "DicomToMesh",
-                    "stars": 528,
+                    "stars": 527,
                     "topics": [
                       "3d",
                       "3d-mesh",
@@ -609,7 +609,7 @@
                 "open_issues": 135,
                 "owner": "suyashkumar",
                 "repo": "dicom",
-                "stars": 1081,
+                "stars": 1082,
                 "topics": [
                   "dcm",
                   "dicom",
@@ -1030,10 +1030,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-08-28T14:43:11Z",
-                    "open_issues": 547,
+                    "open_issues": 548,
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4314,
+                    "stars": 4316,
                     "topics": [
                       "cancer-imaging-research",
                       "dicom",
@@ -1485,10 +1485,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-03T17:17:51Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "pydicom",
                     "repo": "pydicom",
-                    "stars": 2199,
+                    "stars": 2200,
                     "topics": [
                       "dicom",
                       "pydicom",
@@ -1608,7 +1608,7 @@
                     "open_issues": 13,
                     "owner": "ImagingDataCommons",
                     "repo": "dicomweb-client",
-                    "stars": 128,
+                    "stars": 129,
                     "topics": [
                       "dicom",
                       "dicomweb",
@@ -1854,7 +1854,7 @@
                     "open_issues": 7,
                     "owner": "aces",
                     "repo": "DICAT",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
@@ -2188,7 +2188,7 @@
                     "open_issues": 11,
                     "owner": "mercure-imaging",
                     "repo": "mercure",
-                    "stars": 101,
+                    "stars": 100,
                     "topics": [
                       "ai",
                       "deep-learning",
@@ -2289,7 +2289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:29:22.188Z",
+    "last_updated": "2026-08-31T10:07:12.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DICOM resources and libraries.",
@@ -2301,7 +2301,7 @@
       "open_issues": 5,
       "owner": "open-dicom",
       "repo": "awesome-dicom",
-      "stars": 400,
+      "stars": 401,
       "topics": [
         "awesome",
         "awesome-list",
