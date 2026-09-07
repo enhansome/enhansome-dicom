@@ -51,8 +51,8 @@
                     "id": 187111872,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T04:28:39Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-09-07T04:58:21Z",
+                    "open_issues": 18,
                     "owner": "microsoft",
                     "repo": "dicom-server",
                     "stars": 513,
@@ -189,8 +189,8 @@
                     "id": 1069177,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T11:15:28Z",
-                    "open_issues": 103,
+                    "last_commit": "2026-09-06T10:32:15Z",
+                    "open_issues": 102,
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
                     "stars": 1084,
@@ -574,7 +574,7 @@
                     "open_issues": 2,
                     "owner": "DraconPern",
                     "repo": "dovo",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "dicom"
                     ]
@@ -609,7 +609,7 @@
                 "open_issues": 135,
                 "owner": "suyashkumar",
                 "repo": "dicom",
-                "stars": 1083,
+                "stars": 1084,
                 "topics": [
                   "dcm",
                   "dicom",
@@ -1030,10 +1030,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-04T22:10:41Z",
-                    "open_issues": 550,
+                    "open_issues": 551,
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4317,
+                    "stars": 4318,
                     "topics": [
                       "cancer-imaging-research",
                       "dicom",
@@ -1067,8 +1067,8 @@
                     "id": 2428236,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-05T12:37:35Z",
-                    "open_issues": 46,
+                    "last_commit": "2026-09-07T07:51:52Z",
+                    "open_issues": 44,
                     "owner": "ivmartel",
                     "repo": "dwv",
                     "stars": 1846,
@@ -1099,7 +1099,7 @@
                     "open_issues": 28,
                     "owner": "niivue",
                     "repo": "niivue",
-                    "stars": 487,
+                    "stars": 488,
                     "topics": [
                       "image",
                       "nifti",
@@ -2250,7 +2250,7 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-19T15:01:55Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "AlizaMedicalImaging",
                     "repo": "AlizaMS",
                     "stars": 313,
@@ -2289,7 +2289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:08:21.379Z",
+    "last_updated": "2026-09-07T08:39:24.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DICOM resources and libraries.",
