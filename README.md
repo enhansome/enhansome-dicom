@@ -58,10 +58,10 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### General
 
-* [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,087 | 🐛 98 | 🌐 C++ | 📅 2026-09-18 - A simplified interface for the Insight Toolkit [ITK](https://itk.org/) with several components supporting general filtering operations, image segmentation, and registration.
+* [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,087 | 🐛 98 | 🌐 C++ | 📅 2026-09-19 - A simplified interface for the Insight Toolkit [ITK](https://itk.org/) with several components supporting general filtering operations, image segmentation, and registration.
 * [CTK](https://github.com/commontk/CTK) ⭐ 966 | 🐛 229 | 🌐 C++ | 📅 2026-09-17 - The Common Toolkit is a community effort to provide support code for medical image analysis, surgical navigation, and related projects.
 * [DCMTK](https://github.com/DCMTK/dcmtk) ⭐ 909 | 🐛 14 | 🌐 C++ | 📅 2026-09-16 - The DICOM ToolKit (DCMTK) package consists of source code, documentation and installation instructions for a set of software libraries and applications implementing part of the DICOM/MEDICOM Standard.
-* [MITK](https://github.com/MITK/MITK) ⭐ 838 | 🐛 3 | 🌐 C++ | 📅 2026-09-18 - The Medical Imaging Interaction Toolkit (MITK) is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.
+* [MITK](https://github.com/MITK/MITK) ⭐ 838 | 🐛 3 | 🌐 C++ | 📅 2026-09-20 - The Medical Imaging Interaction Toolkit (MITK) is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.
 * [GDCM](https://github.com/malaterre/GDCM) ⭐ 399 | 🐛 7 | 🌐 C++ | 📅 2026-08-21 - Grassroots DICOM (GDCM) is an implementation of the DICOM standard designed to be open source, so that researchers may access clinical data directly. GDCM includes a file format definition and a network communications protocol, both of which should be extended to provide a full set of tools for a researcher or small medical imaging vendor to interface with an existing medical database.
 * [vtk-dicom](https://github.com/dgobbi/vtk-dicom) ⭐ 287 | 🐛 66 | 🌐 C++ | 📅 2026-08-24 - A set of classes for managing DICOM files and metadata from within VTK, and some utility programs for interrogating and converting DICOM files.
 * [dcmqi](https://github.com/QIICR/dcmqi) ⭐ 284 | 🐛 72 | 🌐 C++ | 📅 2026-09-14 - DICOM for Quantitative Imaging (dcmqi) is a collection of libraries and command line tools with minimum dependencies to support standardized communication of quantitative image analysis research data using the DICOM standard.
@@ -92,7 +92,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Visualization
 
-* [Weasis](https://github.com/nroduit/Weasis) ⭐ 1,330 | 🐛 42 | 🌐 Java | 📅 2026-09-13 - A multipurpose standalone and web-based DICOM viewer with a highly modular architecture.
+* [Weasis](https://github.com/nroduit/Weasis) ⭐ 1,331 | 🐛 42 | 🌐 Java | 📅 2026-09-13 - A multipurpose standalone and web-based DICOM viewer with a highly modular architecture.
 
 ### JavaScript
 
@@ -111,10 +111,10 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Visualization
 
-* [Viewers](https://github.com/OHIF/Viewers) ⭐ 4,335 | 🐛 556 | 🌐 TypeScript | 📅 2026-09-18 - A zero-footprint medical image viewer provided by the [Open Health Imaging Foundation (OHIF)](https://ohif.org/). It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support DICOMWeb.
+* [Viewers](https://github.com/OHIF/Viewers) ⭐ 4,337 | 🐛 556 | 🌐 TypeScript | 📅 2026-09-18 - A zero-footprint medical image viewer provided by the [Open Health Imaging Foundation (OHIF)](https://ohif.org/). It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support DICOMWeb.
 * [DWV](https://github.com/ivmartel/dwv) ⭐ 1,847 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-18 - DICOM Web Viewer (DWV) is an open source zero footprint medical image viewer library. It uses only JavaScript and HTML5 technologies, meaning that it can be run on any platform that provides a modern browser (laptop, tablet, phone and even modern TVs).
 * [NiiVue](https://github.com/niivue/niivue) ⭐ 494 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-18 - A WebGL module that can be embedded into HTML, Vue.js, Angular, React, Electron and Capacitor frameworks. It provides scripting and drag and drop abilities to visualize and render voxel-based images (e.g., DICOM and NIfTI), meshes, and tractography streamlines and connectomes, as well as drawing functions ([demos](https://niivue.github.io/niivue/)).
-* [VolView](https://github.com/Kitware/VolView) ⭐ 304 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-18 - Web based radiological viewer for clinical professionals. Built with [Vue.js](https://vuejs.org/) and [VTK.js](https://github.com/Kitware/vtk-js) ⭐ 1,530 | 🐛 293 | 🌐 JavaScript | 📅 2026-09-18.
+* [VolView](https://github.com/Kitware/VolView) ⭐ 304 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-18 - Web based radiological viewer for clinical professionals. Built with [Vue.js](https://vuejs.org/) and [VTK.js](https://github.com/Kitware/vtk-js) ⭐ 1,530 | 🐛 294 | 🌐 JavaScript | 📅 2026-09-18.
 * [dicomviewer](https://github.com/ayselafsar/dicomviewer) ⭐ 265 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-12 - A DICOM viewer which uses the cornerstone.js library to display DICOM files in Nextcloud.
 * [U Dicom Viewer](https://github.com/webnamics/u-dicom-viewer) ⭐ 194 | 🐛 41 | 🌐 JavaScript | 📅 2023-04-13 - A simple but functional DICOM viewer for any device with a web browser. Allows opening and viewing 2D medical images in a wide variety of DICOM formats.
 * [bluelight](https://github.com/cylab-tw/bluelight) ⭐ 157 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-31 - Browser-based medical image viewer primarily maintained by the [Imaging Informatics Labs](https://cylab.dicom.tw/). It is a pure single-page application (SPA), lightweight, and using only JavaScript and HTML5 technologies to easily deploy it on any HTTP server.
@@ -140,7 +140,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### General
 
-* [pydicom](https://github.com/pydicom/pydicom) ⭐ 2,210 | 🐛 43 | 🌐 Python | 📅 2026-09-17 - A pure Python package for working with DICOM files. It lets you read, modify and write DICOM data in an easy "pythonic" way.
+* [pydicom](https://github.com/pydicom/pydicom) ⭐ 2,210 | 🐛 43 | 🌐 Python | 📅 2026-09-19 - A pure Python package for working with DICOM files. It lets you read, modify and write DICOM data in an easy "pythonic" way.
 * [MedPy](https://github.com/loli/medpy) ⭐ 621 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-09-03 - An image processing library and collection of scripts targeted towards medical (i.e. high dimensional) image processing.
 * [pynetdicom](https://github.com/pydicom/pynetdicom) ⭐ 572 | 🐛 25 | 🌐 Python | 📅 2026-09-07 - A pure Python 3.7+ package that implements the DICOM networking protocol. Working with *pydicom*, it allows the easy creation of DICOM Service Class Users (SCUs) and Service Class Providers (SCPs).
 * [highdicom](https://github.com/ImagingDataCommons/highdicom) ⭐ 241 | 🐛 37 | 🌐 Python | 📅 2026-09-18 - Provides high-level DICOM abstractions for the Python programming language to facilitate the creation and handling of DICOM objects for image-derived information, including image annotations, and image analysis results.
@@ -165,7 +165,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### Sorting
 
-* [dicomsort](https://github.com/pieper/dicomsort) ⭐ 86 | 🐛 8 | 🌐 Python | 📅 2025-05-06 - Given DICOM files in a random folder structure, this program copies all into a user-defined folder hierarchy, creating folders as necessary and changing DICOM file names to be more meaningful.
+* [dicomsort](https://github.com/pieper/dicomsort) ⭐ 87 | 🐛 8 | 🌐 Python | 📅 2025-05-06 - Given DICOM files in a random folder structure, this program copies all into a user-defined folder hierarchy, creating folders as necessary and changing DICOM file names to be more meaningful.
 
 #### Visualization
 
@@ -209,4 +209,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
