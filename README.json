@@ -287,7 +287,7 @@
                     "id": 1760792,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-20T06:22:35Z",
+                    "last_commit": "2026-09-20T21:52:53Z",
                     "open_issues": 3,
                     "owner": "MITK",
                     "repo": "MITK",
@@ -317,7 +317,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-21T07:55:49Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "malaterre",
                     "repo": "GDCM",
                     "stars": 399,
@@ -574,7 +574,7 @@
                     "open_issues": 2,
                     "owner": "DraconPern",
                     "repo": "dovo",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": [
                       "dicom"
                     ]
@@ -746,7 +746,7 @@
                     "open_issues": 42,
                     "owner": "nroduit",
                     "repo": "Weasis",
-                    "stars": 1331,
+                    "stars": 1332,
                     "topics": [
                       "dicom",
                       "dicom-image",
@@ -1029,11 +1029,11 @@
                     "id": 44164233,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T20:30:20Z",
-                    "open_issues": 556,
+                    "last_commit": "2026-09-21T01:42:19Z",
+                    "open_issues": 555,
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4337,
+                    "stars": 4341,
                     "topics": [
                       "cancer-imaging-research",
                       "dicom",
@@ -1123,7 +1123,7 @@
                     "id": 248073292,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T22:07:45Z",
+                    "last_commit": "2026-09-20T19:50:48Z",
                     "open_issues": 92,
                     "owner": "Kitware",
                     "repo": "VolView",
@@ -1577,7 +1577,7 @@
                     "id": 200103563,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T17:02:42Z",
+                    "last_commit": "2026-09-20T13:58:53Z",
                     "open_issues": 37,
                     "owner": "ImagingDataCommons",
                     "repo": "highdicom",
@@ -1662,7 +1662,7 @@
                     "id": 42650211,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-18T22:10:04Z",
+                    "last_commit": "2026-09-20T11:42:21Z",
                     "open_issues": 216,
                     "owner": "nipy",
                     "repo": "heudiconv",
@@ -1850,7 +1850,7 @@
                     "id": 16005675,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-18T18:21:34Z",
+                    "last_commit": "2026-09-21T02:19:08Z",
                     "open_issues": 7,
                     "owner": "aces",
                     "repo": "DICAT",
@@ -2225,7 +2225,7 @@
                     "open_issues": 24,
                     "owner": "dvtk-org",
                     "repo": "DVTk",
-                    "stars": 192,
+                    "stars": 193,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
@@ -2289,7 +2289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:50:18.330Z",
+    "last_updated": "2026-09-21T09:19:21.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DICOM resources and libraries.",
@@ -2297,8 +2297,8 @@
       "id": 615461157,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-19T19:42:26Z",
-      "open_issues": 6,
+      "last_commit": "2026-09-20T15:28:38Z",
+      "open_issues": 5,
       "owner": "open-dicom",
       "repo": "awesome-dicom",
       "stars": 402,
@@ -2309,7 +2309,7 @@
         "medical-imaging"
       ]
     },
-    "original_repository_sha": "d4ff33e591c932290179e7e0b7e98023abf9aebb",
+    "original_repository_sha": "3f9656d78e4aff63568db632d4b26c059c88bdab",
     "enhanced_repository": "enhansome/enhansome-dicom",
     "enhanced_repository_description": null,
     "title": "Awesome DICOM with stars"
