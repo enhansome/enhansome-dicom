@@ -61,7 +61,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 * [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,092 | 🐛 104 | 🌐 C++ | 📅 2026-09-30 - A simplified interface for the Insight Toolkit [ITK](https://itk.org/) with several components supporting general filtering operations, image segmentation, and registration.
 * [CTK](https://github.com/commontk/CTK) ⭐ 966 | 🐛 229 | 🌐 C++ | 📅 2026-09-30 - The Common Toolkit is a community effort to provide support code for medical image analysis, surgical navigation, and related projects.
-* [DCMTK](https://github.com/DCMTK/dcmtk) ⭐ 909 | 🐛 17 | 🌐 C++ | 📅 2026-09-22 - The DICOM ToolKit (DCMTK) package consists of source code, documentation and installation instructions for a set of software libraries and applications implementing part of the DICOM/MEDICOM Standard.
+* [DCMTK](https://github.com/DCMTK/dcmtk) ⭐ 910 | 🐛 17 | 🌐 C++ | 📅 2026-09-22 - The DICOM ToolKit (DCMTK) package consists of source code, documentation and installation instructions for a set of software libraries and applications implementing part of the DICOM/MEDICOM Standard.
 * [MITK](https://github.com/MITK/MITK) ⭐ 839 | 🐛 0 | 🌐 C++ | 📅 2026-10-03 - The Medical Imaging Interaction Toolkit (MITK) is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.
 * [GDCM](https://github.com/malaterre/GDCM) ⭐ 398 | 🐛 9 | 🌐 C++ | 📅 2026-08-21 - Grassroots DICOM (GDCM) is an implementation of the DICOM standard designed to be open source, so that researchers may access clinical data directly. GDCM includes a file format definition and a network communications protocol, both of which should be extended to provide a full set of tools for a researcher or small medical imaging vendor to interface with an existing medical database.
 * [vtk-dicom](https://github.com/dgobbi/vtk-dicom) ⭐ 287 | 🐛 66 | 🌐 C++ | 📅 2026-08-24 - A set of classes for managing DICOM files and metadata from within VTK, and some utility programs for interrogating and converting DICOM files.
@@ -99,7 +99,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 #### General
 
-* [dcmjs](https://github.com/dcmjs-org/dcmjs) ⭐ 351 | 🐛 141 | 🌐 JavaScript | 📅 2026-10-03 - JavaScript implementation of DICOM manipulation. This code is an outgrowth of several efforts to implement web applications for medical imaging.
+* [dcmjs](https://github.com/dcmjs-org/dcmjs) ⭐ 351 | 🐛 142 | 🌐 JavaScript | 📅 2026-10-03 - JavaScript implementation of DICOM manipulation. This code is an outgrowth of several efforts to implement web applications for medical imaging.
 * [Daikon](https://github.com/rii-mango/Daikon) ⭐ 231 | 🐛 3 | 🌐 JavaScript | 📅 2024-01-30 - A pure JavaScript DICOM reader.
 * [dicomweb-client](https://github.com/dcmjs-org/dicomweb-client) ⭐ 159 | 🐛 27 | 🌐 JavaScript | 📅 2026-10-02 - JavaScript client implementation of DICOMWeb.
 * [dicomweb-pacs](https://github.com/knopkem/dicomweb-pacs) ⭐ 126 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-22 - Easy to use DICOMWeb enabled PACS with DIMSE services based on sqlite database.
@@ -183,7 +183,7 @@ The [DICOM Standard](https://www.dicomstandard.org/) is *the* international stan
 
 ### Rust
 
-* [DICOM-rs](https://github.com/Enet4/dicom-rs) ⭐ 564 | 🐛 73 | 🌐 Rust | 📅 2026-10-01 - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
+* [DICOM-rs](https://github.com/Enet4/dicom-rs) ⭐ 565 | 🐛 73 | 🌐 Rust | 📅 2026-10-01 - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
 
 ### Other/Combination
 
