@@ -189,7 +189,7 @@
                     "id": 1069177,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T16:49:08Z",
+                    "last_commit": "2026-10-10T12:29:01Z",
                     "open_issues": 101,
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
@@ -609,7 +609,7 @@
                 "open_issues": 137,
                 "owner": "suyashkumar",
                 "repo": "dicom",
-                "stars": 1088,
+                "stars": 1089,
                 "topics": [
                   "dcm",
                   "dicom",
@@ -1032,7 +1032,7 @@
                     "open_issues": 573,
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4366,
+                    "stars": 4368,
                     "topics": [
                       "cancer-imaging-research",
                       "dicom",
@@ -1066,8 +1066,8 @@
                     "id": 2428236,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-08T15:56:16Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-10-10T12:38:59Z",
+                    "open_issues": 48,
                     "owner": "ivmartel",
                     "repo": "dwv",
                     "stars": 1851,
@@ -1263,8 +1263,8 @@
                     "id": 142499554,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T09:36:41Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-10-10T23:28:53Z",
+                    "open_issues": 16,
                     "owner": "ImagingDataCommons",
                     "repo": "dicom-microscopy-viewer",
                     "stars": 130,
@@ -1487,7 +1487,7 @@
                     "open_issues": 56,
                     "owner": "pydicom",
                     "repo": "pydicom",
-                    "stars": 2220,
+                    "stars": 2221,
                     "topics": [
                       "dicom",
                       "pydicom",
@@ -2058,7 +2058,7 @@
                     "open_issues": 9,
                     "owner": "Sikerdebaard",
                     "repo": "dcmrtstruct2nii",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
@@ -2111,8 +2111,8 @@
                 "id": 71735225,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T09:03:38Z",
-                "open_issues": 75,
+                "last_commit": "2026-10-10T10:28:23Z",
+                "open_issues": 76,
                 "owner": "Enet4",
                 "repo": "dicom-rs",
                 "stars": 566,
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:08:52.125Z",
+    "last_updated": "2026-10-11T10:20:30.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DICOM resources and libraries.",
