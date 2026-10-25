@@ -189,7 +189,7 @@
                     "id": 1069177,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T16:38:31Z",
+                    "last_commit": "2026-10-24T10:56:23Z",
                     "open_issues": 99,
                     "owner": "SimpleITK",
                     "repo": "SimpleITK",
@@ -265,7 +265,7 @@
                     "open_issues": 15,
                     "owner": "DCMTK",
                     "repo": "dcmtk",
-                    "stars": 914,
+                    "stars": 915,
                     "topics": [
                       "bsd-3-clause",
                       "dcmtk",
@@ -428,11 +428,11 @@
                     "id": 25434012,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T20:14:51Z",
+                    "last_commit": "2026-10-24T14:31:55Z",
                     "open_issues": 1,
                     "owner": "rordenlab",
                     "repo": "dcm2niix",
-                    "stars": 1206,
+                    "stars": 1207,
                     "topics": [
                       "bids-format",
                       "dcm",
@@ -745,7 +745,7 @@
                     "open_issues": 37,
                     "owner": "nroduit",
                     "repo": "Weasis",
-                    "stars": 1414,
+                    "stars": 1418,
                     "topics": [
                       "dicom",
                       "dicom-image",
@@ -1032,7 +1032,7 @@
                     "open_issues": 591,
                     "owner": "OHIF",
                     "repo": "Viewers",
-                    "stars": 4387,
+                    "stars": 4390,
                     "topics": [
                       "cancer-imaging-research",
                       "dicom",
@@ -1066,8 +1066,8 @@
                     "id": 2428236,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-23T17:03:53Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-10-24T15:05:31Z",
+                    "open_issues": 52,
                     "owner": "ivmartel",
                     "repo": "dwv",
                     "stars": 1851,
@@ -1122,11 +1122,11 @@
                     "id": 248073292,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T22:14:44Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-10-24T19:14:14Z",
+                    "open_issues": 92,
                     "owner": "Kitware",
                     "repo": "VolView",
-                    "stars": 303,
+                    "stars": 304,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
@@ -1143,8 +1143,8 @@
                     "id": 119534752,
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-23T14:04:22Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-24T21:37:34Z",
+                    "open_issues": 9,
                     "owner": "ayselafsar",
                     "repo": "dicomviewer",
                     "stars": 266,
@@ -1483,11 +1483,11 @@
                     "id": 14006067,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T17:55:36Z",
-                    "open_issues": 67,
+                    "last_commit": "2026-10-24T17:55:50Z",
+                    "open_issues": 70,
                     "owner": "pydicom",
                     "repo": "pydicom",
-                    "stars": 2225,
+                    "stars": 2227,
                     "topics": [
                       "dicom",
                       "pydicom",
@@ -1576,8 +1576,8 @@
                     "id": 200103563,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T23:31:07Z",
-                    "open_issues": 46,
+                    "last_commit": "2026-10-24T19:21:42Z",
+                    "open_issues": 44,
                     "owner": "ImagingDataCommons",
                     "repo": "highdicom",
                     "stars": 240,
@@ -1604,7 +1604,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-17T21:05:10Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "ImagingDataCommons",
                     "repo": "dicomweb-client",
                     "stars": 130,
@@ -1644,7 +1644,7 @@
                     "open_issues": 64,
                     "owner": "icometrix",
                     "repo": "dicom2nifti",
-                    "stars": 404,
+                    "stars": 403,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
@@ -1800,8 +1800,8 @@
                     "id": 94163984,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T02:35:33Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-10-25T06:43:42Z",
+                    "open_issues": 27,
                     "owner": "pydicom",
                     "repo": "deid",
                     "stars": 181,
@@ -2111,8 +2111,8 @@
                 "id": 71735225,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T07:55:01Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-24T09:37:34Z",
+                "open_issues": 72,
                 "owner": "Enet4",
                 "repo": "dicom-rs",
                 "stars": 569,
@@ -2134,6 +2134,36 @@
           "children": [
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "mercure",
+                  "description": "A flexible DICOM routing and processing solution with user-friendly web interface and extensive monitoring functions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "mercure DICOM Orchestrator",
+                    "homepage": "https://mercure-imaging.org",
+                    "id": 250666613,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-07T17:47:30Z",
+                    "open_issues": 13,
+                    "owner": "mercure-imaging",
+                    "repo": "mercure",
+                    "stars": 104,
+                    "topics": [
+                      "ai",
+                      "deep-learning",
+                      "dicom",
+                      "medical",
+                      "medical-image-processing",
+                      "medical-imaging",
+                      "open-source",
+                      "routing"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T15:41:47.530Z"
+                },
                 {
                   "node_type": "item",
                   "title": "Niffler",
@@ -2166,36 +2196,6 @@
                       "scanner-utilization",
                       "scanners",
                       "workflows"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T15:41:47.530Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "mercure",
-                  "description": "A flexible DICOM routing and processing solution with user-friendly web interface and extensive monitoring functions.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "mercure DICOM Orchestrator",
-                    "homepage": "https://mercure-imaging.org",
-                    "id": 250666613,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-07T17:47:30Z",
-                    "open_issues": 13,
-                    "owner": "mercure-imaging",
-                    "repo": "mercure",
-                    "stars": 103,
-                    "topics": [
-                      "ai",
-                      "deep-learning",
-                      "dicom",
-                      "medical",
-                      "medical-image-processing",
-                      "medical-imaging",
-                      "open-source",
-                      "routing"
                     ]
                   },
                   "first_seen": "2026-08-28T15:41:47.530Z"
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:25:23.688Z",
+    "last_updated": "2026-10-25T08:44:49.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DICOM resources and libraries.",
