@@ -122,7 +122,7 @@ DICOM files can carry protected health information in their tags, pixel data and
 
 ### Community
 
-* [pydicom Discussions](https://github.com/pydicom/pydicom/discussions) ⭐ 2,238 | 🐛 43 | 🌐 Python | 📅 2026-11-20 - Questions and answers about pydicom.
+* [pydicom Discussions](https://github.com/pydicom/pydicom/discussions) ⭐ 2,238 | 🐛 41 | 🌐 Python | 📅 2026-11-21 - Questions and answers about pydicom.
 * [comp.protocols.dicom](https://groups.google.com/g/comp.protocols.dicom) - Read-only archive of the long-running Usenet group for DICOM implementation questions.
 * [dcm4che group](https://groups.google.com/g/dcm4che) - Discussion group for the dcm4che toolkit and the dcm4chee archive.
 * [IDC Forum](https://discourse.canceridc.dev/) - Forum for questions about Imaging Data Commons data and tools.
@@ -141,11 +141,11 @@ Packages to use in your own code, grouped by language.
 
 ### C and C++
 
-* [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,097 | 🐛 109 | 🌐 C++ | 📅 2026-11-20 - Simplified interface to the [Insight Toolkit (ITK)](https://itk.org/) for filtering, segmentation and registration, including reading and writing DICOM series.
+* [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,097 | 🐛 108 | 🌐 C++ | 📅 2026-11-21 - Simplified interface to the [Insight Toolkit (ITK)](https://itk.org/) for filtering, segmentation and registration, including reading and writing DICOM series.
 * [CTK](https://github.com/commontk/CTK) ⭐ 970 | 🐛 232 | 🌐 C++ | 📅 2026-11-03 - Common Toolkit of support code for medical image analysis and surgical navigation, including Qt widgets for browsing, querying and retrieving DICOM data.
-* [DCMTK](https://github.com/DCMTK/dcmtk) ⭐ 919 | 🐛 13 | 🌐 C++ | 📅 2026-11-16 - Libraries and command-line tools for DICOM file handling, networking and image processing.
+* [DCMTK](https://github.com/DCMTK/dcmtk) ⭐ 919 | 🐛 12 | 🌐 C++ | 📅 2026-11-16 - Libraries and command-line tools for DICOM file handling, networking and image processing.
 * [MITK](https://github.com/MITK/MITK) ⭐ 851 | 🐛 2 | 🌐 C++ | 📅 2026-11-20 - Medical Imaging Interaction Toolkit, a framework built on ITK and VTK for developing interactive medical image processing software.
-* [GDCM](https://github.com/malaterre/GDCM) ⭐ 399 | 🐛 22 | 🌐 C++ | 📅 2026-08-21 - Grassroots DICOM, a library for reading, writing and transcoding DICOM files and for DICOM networking, with bindings for Python, C#, Java and PHP.
+* [GDCM](https://github.com/malaterre/GDCM) ⭐ 399 | 🐛 23 | 🌐 C++ | 📅 2026-08-21 - Grassroots DICOM, a library for reading, writing and transcoding DICOM files and for DICOM networking, with bindings for Python, C#, Java and PHP.
 * [vtk-dicom](https://github.com/dgobbi/vtk-dicom) ⭐ 287 | 🐛 69 | 🌐 C++ | 📅 2026-10-15 - VTK classes for reading and writing DICOM files and metadata, plus utilities for inspecting and converting DICOM files.
 * [libdicom](https://github.com/ImagingDataCommons/libdicom) ⭐ 41 | 🐛 7 | 🌐 C | 📅 2026-07-01 - C library for reading DICOM files, with efficient access to individual frames of whole slide microscopy images.
 
@@ -160,8 +160,8 @@ Packages to use in your own code, grouped by language.
 
 ### JavaScript
 
-* [DWV](https://github.com/ivmartel/dwv) ⭐ 1,856 | 🐛 47 | 🌐 JavaScript | 📅 2026-11-20 - Zero-footprint medical image viewer library in JavaScript and HTML5 that runs in any modern browser, on desktop or mobile ([demo](https://ivmartel.github.io/dwv/)).
-* [Cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) ⭐ 1,171 | 🐛 646 | 🌐 TypeScript | 📅 2026-11-21 - Libraries for building web-based medical imaging applications, with GPU-accelerated stack, MPR and volume rendering, annotation and segmentation tools, and a DICOM image loader.
+* [DWV](https://github.com/ivmartel/dwv) ⭐ 1,856 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-21 - Zero-footprint medical image viewer library in JavaScript and HTML5 that runs in any modern browser, on desktop or mobile ([demo](https://ivmartel.github.io/dwv/)).
+* [Cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) ⭐ 1,171 | 🐛 667 | 🌐 TypeScript | 📅 2026-11-22 - Libraries for building web-based medical imaging applications, with GPU-accelerated stack, MPR and volume rendering, annotation and segmentation tools, and a DICOM image loader.
 * [dicomParser](https://github.com/cornerstonejs/dicomParser) ⭐ 754 | 🐛 47 | 🌐 JavaScript | 📅 2024-05-16 - Dependency-free parser for DICOM Part 10 and raw byte streams in browsers and Node.js ([demo](https://cornerstonejs.github.io/dicomParser/examples/dumpWithDataDictionary/index.html)).
 * [NiiVue](https://github.com/niivue/niivue) ⭐ 506 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - WebGL viewer for voxel images (including DICOM and NIfTI), meshes and tractography that embeds in any web framework ([demos](https://niivue.com/demos/)).
 * [dcmjs](https://github.com/dcmjs-org/dcmjs) ⭐ 359 | 🐛 157 | 🌐 JavaScript | 📅 2026-11-17 - Reads, writes and manipulates DICOM objects, including segmentations and structured reports, in browsers and Node.js.
@@ -178,8 +178,8 @@ Packages to use in your own code, grouped by language.
 
 ### Python
 
-* [pydicom](https://github.com/pydicom/pydicom) ⭐ 2,238 | 🐛 43 | 🌐 Python | 📅 2026-11-20 - Pure Python package for reading, modifying and writing DICOM files.
-* [pynetdicom](https://github.com/pydicom/pynetdicom) ⭐ 577 | 🐛 26 | 🌐 Python | 📅 2026-11-18 - Pure Python implementation of the DICOM networking protocol, used with pydicom to build Service Class Users (SCUs) and Service Class Providers (SCPs).
+* [pydicom](https://github.com/pydicom/pydicom) ⭐ 2,238 | 🐛 41 | 🌐 Python | 📅 2026-11-21 - Pure Python package for reading, modifying and writing DICOM files.
+* [pynetdicom](https://github.com/pydicom/pynetdicom) ⭐ 577 | 🐛 24 | 🌐 Python | 📅 2026-11-18 - Pure Python implementation of the DICOM networking protocol, used with pydicom to build Service Class Users (SCUs) and Service Class Providers (SCPs).
 * [rt-utils](https://github.com/qurit/rt-utils) ⭐ 259 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - Creates DICOM RT structure sets from NumPy masks, and extracts masks from existing ones.
 * [highdicom](https://github.com/ImagingDataCommons/highdicom) ⭐ 243 | 🐛 29 | 🌐 Python | 📅 2026-11-21 - High-level abstractions for creating and reading DICOM objects that hold image-derived information, such as annotations, segmentations and analysis results.
 * [MONAI Deploy App SDK](https://github.com/Project-MONAI/monai-deploy-app-sdk) ⭐ 146 | 🐛 59 | 🌐 Python | 📅 2026-10-28 - Framework for packaging AI inference pipelines that load DICOM series and write results as DICOM segmentations and structured reports.
@@ -205,10 +205,10 @@ Applications and command-line tools to run, grouped by task.
 
 ### Conversion
 
-* [dcm2niix](https://github.com/rordenlab/dcm2niix) ⭐ 1,211 | 🐛 2 | 🌐 C++ | 📅 2026-11-20 - Converts neuroimaging data from DICOM to [NIfTI](https://nifti.nimh.nih.gov/) ([demo](https://niivue.github.io/niivue-dcm2niix/)).
+* [dcm2niix](https://github.com/rordenlab/dcm2niix) ⭐ 1,212 | 🐛 2 | 🌐 C++ | 📅 2026-11-20 - Converts neuroimaging data from DICOM to [NIfTI](https://nifti.nimh.nih.gov/) ([demo](https://niivue.github.io/niivue-dcm2niix/)).
 * [DicomToMesh](https://github.com/eidelen/DicomToMesh) ⭐ 533 | 🐛 6 | 🌐 C++ | 📅 2026-03-28 - Command-line tool that turns a DICOM volume into a 3D surface mesh (OBJ, STL or PLY), with optional mesh reduction, smoothing and cleaning.
 * [dicom2nifti](https://github.com/icometrix/dicom2nifti) ⭐ 403 | 🐛 64 | 🌐 Python | 📅 2025-06-23 - Converts MR and CT-derived DICOM files to NIfTI.
-* [heudiconv](https://github.com/nipy/heudiconv) ⭐ 287 | 🐛 218 | 🌐 Python | 📅 2026-11-19 - Flexible DICOM converter for organizing brain imaging data into structured directory layouts.
+* [heudiconv](https://github.com/nipy/heudiconv) ⭐ 287 | 🐛 218 | 🌐 Python | 📅 2026-11-21 - Flexible DICOM converter for organizing brain imaging data into structured directory layouts.
 * [dcmqi](https://github.com/QIICR/dcmqi) ⭐ 282 | 🐛 75 | 🌐 C++ | 📅 2026-11-16 - Libraries and command-line tools for converting quantitative image analysis results, such as segmentations and parametric maps, to and from DICOM.
 * [dicom2stl](https://github.com/dave3d/dicom2stl) ⭐ 218 | 🐛 10 | 🌐 Python | 📅 2026-10-16 - Converts a DICOM series to an [STL](https://en.wikipedia.org/wiki/STL_\(file_format\)) surface mesh.
 * [Dcm2Bids](https://github.com/UNFmontreal/Dcm2Bids) ⭐ 211 | 🐛 4 | 🌐 Python | 📅 2026-10-26 - Converts DICOM to a BIDS dataset by running dcm2niix, using a configuration file that maps series metadata to BIDS names.
@@ -225,7 +225,7 @@ Applications and command-line tools to run, grouped by task.
 * [dicom-anonymizer](https://github.com/KitwareMedical/dicom-anonymizer) ⭐ 146 | 🐛 5 | 🌐 Python | 📅 2026-09-04 - Command-line tool that anonymizes DICOM files following the DICOM standard.
 * [RSNA Anonymizer](https://github.com/RSNA/anonymizer) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - Desktop application that imports studies from local folders or a PACS, de-identifies them, and exports them to a DICOM node or AWS S3.
 * [Karnak](https://github.com/nroduit/karnak) ⭐ 56 | 🐛 5 | 🌐 Java | 📅 2026-11-21 - DICOM gateway that de-identifies or modifies the tags of studies in transit, configured through profiles in a web interface.
-* [dicognito](https://github.com/blairconrad/dicognito) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-11-21 - Replaces identifying attributes with realistic fake values, consistently across all the files of a study.
+* [dicognito](https://github.com/blairconrad/dicognito) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2026-11-21 - Replaces identifying attributes with realistic fake values, consistently across all the files of a study.
 * [dcm-anon](https://github.com/Ces107/dcm-anon) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-07 - PS3.15 Basic Profile anonymizer that emits a hash-chained GDPR/HIPAA compliance manifest and an independent post-run residual-PHI scan.
 
 ### Dose Monitoring
@@ -236,7 +236,7 @@ Applications and command-line tools to run, grouped by task.
 
 * [dicomsort](https://github.com/pieper/dicomsort) ⭐ 87 | 🐛 8 | 🌐 Python | 📅 2025-05-06 - Copies DICOM files from any folder layout into a user-defined folder hierarchy, renaming them from their metadata.
 * [dovo](https://github.com/DraconPern/dovo) ⭐ 43 | 🐛 2 | 🌐 C++ | 📅 2026-03-30 - Cross-platform software for importing DICOM CDs and files and sending them to a PACS.
-* [MIA Toolkit](https://github.com/Fritanga-Collective/mia-toolkit) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-11-20 - Desktop app that consolidates DICOM studies from multiple CDs and USB drives into a single de-duplicated, verified DICOMDIR archive.
+* [MIA Toolkit](https://github.com/Fritanga-Collective/mia-toolkit) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-11-21 - Desktop app that consolidates DICOM studies from multiple CDs and USB drives into a single de-duplicated, verified DICOMDIR archive.
 
 ### Gateways and Routing
 
@@ -256,14 +256,14 @@ Applications and command-line tools to run, grouped by task.
 
 ### Research Platforms
 
-* [3D Slicer](https://github.com/Slicer/Slicer) ⭐ 2,741 | 🐛 682 | 🌐 C++ | 📅 2026-11-20 - Desktop platform for medical image visualization, segmentation and registration, with a DICOM browser and support for many clinical DICOM object types.
-* [Kaapana](https://github.com/kaapana/kaapana) ⭐ 279 | 🐛 1 | 🌐 Python | 📅 2026-11-20 - Kubernetes-based platform that combines a DICOM archive, a web viewer and a workflow engine for AI processing and federated learning on medical images.
-* [XNAT](https://github.com/NrgXnat/xnat) ⭐ 9 | 🐛 55 | 🌐 Java | 📅 2026-11-20 - Imaging research platform that receives DICOM through a built-in SCP, anonymizes and archives imaging sessions, and runs processing pipelines.
+* [3D Slicer](https://github.com/Slicer/Slicer) ⭐ 2,741 | 🐛 683 | 🌐 C++ | 📅 2026-11-21 - Desktop platform for medical image visualization, segmentation and registration, with a DICOM browser and support for many clinical DICOM object types.
+* [Kaapana](https://github.com/kaapana/kaapana) ⭐ 279 | 🐛 1 | 🌐 Python | 📅 2026-11-22 - Kubernetes-based platform that combines a DICOM archive, a web viewer and a workflow engine for AI processing and federated learning on medical images.
+* [XNAT](https://github.com/NrgXnat/xnat) ⭐ 9 | 🐛 56 | 🌐 Java | 📅 2026-11-20 - Imaging research platform that receives DICOM through a built-in SCP, anonymizes and archives imaging sessions, and runs processing pipelines.
 
 ### Servers and PACS
 
 * [Dicoogle](https://github.com/dicoogle/dicoogle) ⭐ 538 | 🐛 61 | 🌐 Java | 📅 2026-11-17 - Extensible PACS archive that indexes DICOM metadata for flexible search and retrieval instead of relying on a traditional centralized database.
-* [dcm4chee-arc-light](https://github.com/dcm4che/dcm4chee-arc-light) ⭐ 508 | 🐛 210 | 🌐 Java | 📅 2026-11-20 - DICOM archive and PACS built on dcm4che, with DIMSE, DICOMweb and HL7 services and a web interface.
+* [dcm4chee-arc-light](https://github.com/dcm4che/dcm4chee-arc-light) ⭐ 508 | 🐛 212 | 🌐 Java | 📅 2026-11-20 - DICOM archive and PACS built on dcm4che, with DIMSE, DICOMweb and HL7 services and a web interface.
 * [Conquest DICOM Server](https://github.com/marcelvanherk/Conquest-DICOM-Server) ⭐ 154 | 🐛 5 | 🌐 C | 📅 2026-11-17 - DICOM server and PACS with SQL database backends, Lua scripting for automating workflows, and a web interface.
 * [dicomweb-pacs](https://github.com/knopkem/dicomweb-pacs) ⭐ 127 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-22 - DICOMweb-enabled PACS with DIMSE services, backed by an SQLite database.
 * [Orthanc Explorer 2](https://github.com/orthanc-server/orthanc-explorer-2) ⭐ 77 | 🐛 12 | 🌐 Vue | 📅 2026-11-19 - Web interface for browsing, uploading, modifying and sharing studies stored in Orthanc, with links to OHIF, Stone and other viewers ([demo](https://orthanc.uclouvain.be/demo/ui/app/)).
@@ -281,7 +281,7 @@ Applications and command-line tools to run, grouped by task.
 #### Desktop
 
 * [Weasis](https://github.com/nroduit/Weasis) ⭐ 1,459 | 🐛 40 | 🌐 Java | 📅 2026-11-21 - Multipurpose standalone and web-based DICOM viewer with a modular architecture.
-* [InVesalius](https://github.com/invesalius/invesalius3) ⭐ 820 | 🐛 302 | 🌐 Python | 📅 2026-11-21 - Reconstructs 3D surfaces from CT and MRI DICOM series, with segmentation, STL export and neuronavigation.
+* [InVesalius](https://github.com/invesalius/invesalius3) ⭐ 820 | 🐛 302 | 🌐 Python | 📅 2026-11-22 - Reconstructs 3D surfaces from CT and MRI DICOM series, with segmentation, STL export and neuronavigation.
 * [Horos](https://github.com/horosproject/horos) ⭐ 651 | 🐛 562 | 🌐 C++ | 📅 2026-02-09 - macOS viewer based on OsiriX, with PACS query and retrieve, MPR, volume rendering and plugins.
 * [AlizaMS](https://github.com/AlizaMedicalImaging/AlizaMS) ⭐ 320 | 🐛 3 | 🌐 C++ | 📅 2026-11-18 - Cross-platform DICOM viewer with 2D and 3D views, MPR and volume rendering.
 * [MRIcroGL](https://github.com/rordenlab/MRIcroGL) ⭐ 297 | 🐛 3 | 🌐 Python | 📅 2025-11-23 - Cross-platform volume renderer for DICOM, NIfTI and other voxel formats, with a drag-and-drop interface and Python scripting.
@@ -290,8 +290,8 @@ Applications and command-line tools to run, grouped by task.
 
 #### Web
 
-* [OHIF Viewer](https://github.com/OHIF/Viewers) ⭐ 4,416 | 🐛 585 | 🌐 TypeScript | 📅 2026-11-20 - Zero-footprint, extensible web viewer from the [Open Health Imaging Foundation](https://ohif.org/) that works with DICOMweb archives ([demo](https://viewer.ohif.org/)).
-* [VolView](https://github.com/Kitware/VolView) ⭐ 306 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-20 - Web-based radiological viewer built with [Vue.js](https://vuejs.org/) and [VTK.js](https://github.com/Kitware/vtk-js) ⭐ 1,551 | 🐛 332 | 🌐 JavaScript | 📅 2026-11-18 ([demo](https://volview.kitware.app/)).
+* [OHIF Viewer](https://github.com/OHIF/Viewers) ⭐ 4,417 | 🐛 592 | 🌐 TypeScript | 📅 2026-11-20 - Zero-footprint, extensible web viewer from the [Open Health Imaging Foundation](https://ohif.org/) that works with DICOMweb archives ([demo](https://viewer.ohif.org/)).
+* [VolView](https://github.com/Kitware/VolView) ⭐ 307 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-22 - Web-based radiological viewer built with [Vue.js](https://vuejs.org/) and [VTK.js](https://github.com/Kitware/vtk-js) ⭐ 1,551 | 🐛 332 | 🌐 JavaScript | 📅 2026-11-18 ([demo](https://volview.kitware.app/)).
 * [dicomviewer](https://github.com/ayselafsar/dicomviewer) ⭐ 270 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-20 - Nextcloud app for viewing DICOM files, built on the OHIF Viewer.
 * [Slim](https://github.com/ImagingDataCommons/slim) ⭐ 174 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-20 - Web viewer and annotation tool for DICOM whole slide microscopy images served over DICOMweb.
 * [bluelight](https://github.com/cylab-tw/bluelight) ⭐ 159 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-18 - Lightweight browser-based DICOM viewer that runs as a single-page application on any HTTP server, with plugins for MPR, MIP, volume rendering and DICOM SEG editing.
@@ -300,10 +300,10 @@ Applications and command-line tools to run, grouped by task.
 
 ## Related Lists
 
-* [Awesome Health](https://github.com/kakoni/awesome-healthcare) ⭐ 4,058 | 🐛 10 | 📅 2026-11-11 - Open source healthcare software, libraries, tools and resources.
-* [Awesome Medical Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset) ⭐ 2,232 | 🐛 66 | 📅 2026-10-02 - Medical imaging and health record datasets, with tools and tutorials for working with them.
+* [Awesome Health](https://github.com/kakoni/awesome-healthcare) ⭐ 4,061 | 🐛 10 | 📅 2026-11-11 - Open source healthcare software, libraries, tools and resources.
+* [Awesome Medical Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset) ⭐ 2,233 | 🐛 66 | 📅 2026-10-02 - Medical imaging and health record datasets, with tools and tutorials for working with them.
 * [Awesome Digital and Computational Pathology](https://github.com/open-pathology/awesome-pathology) ⭐ 140 | 🐛 2 | 📅 2026-02-11 - Software, datasets and publications for digital and computational pathology, including whole slide image viewers.
-* [Awesome Neuroimaging](https://github.com/NPACore/awesome-neuroimaging) ⭐ 52 | 🐛 1 | 🌐 Makefile | 📅 2026-08-24 - Tools for exploring, organizing and analyzing brain images and recordings, with a focus on MRI.
+* [Awesome Neuroimaging](https://github.com/NPACore/awesome-neuroimaging) ⭐ 52 | 🐛 2 | 🌐 Makefile | 📅 2026-08-24 - Tools for exploring, organizing and analyzing brain images and recordings, with a focus on MRI.
 * [Awesome HL7 and DICOM](https://github.com/MichaelLeeHobbs/awesome-hl7-dicom) ⭐ 17 | 🐛 0 | 📅 2026-11-16 - HL7 and DICOM resources, tools and field notes for healthcare integration.
 
 ## Contributing
@@ -314,4 +314,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
